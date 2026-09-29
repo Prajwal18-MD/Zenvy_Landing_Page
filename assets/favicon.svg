@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#781128"/>
+  <!-- Z mark in bright gold yellow #fab62d on rich maroon -->
+  <path d="M7 8h18l-12 16h12v2H7l12-16H7V8z" fill="#fab62d"/>
+  <circle cx="25" cy="8" r="3" fill="#ffffff"/>
+</svg>

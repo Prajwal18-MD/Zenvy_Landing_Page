@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ZENVY — Connected Clinic Management Platform</title>
+    <meta name="description" content="ZENVY connects patients, receptionists and doctors through one connected clinic management platform for appointments, queues, consultations, billing, inventory and patient records." />
+    <meta property="og:title" content="ZENVY — Connected Clinic Management Platform" />
+    <meta property="og:description" content="ZENVY connects patients, receptionists and doctors through one unified clinic workflow." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://zenvy.co.in/" />
+    <link rel="canonical" href="https://zenvy.co.in/" />
+
+    <!-- Favicon: Modern SVG brand icon & fallback PNG -->
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="assets/Png-01.png" type="image/png" />
+
+    <!-- Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+
+    <!-- ═══════════════════ NAVIGATION HEADER ═══════════════════ -->
+    <header class="site-header" id="top">
+      <nav class="navbar container" aria-label="Main navigation">
+        <a class="brand" href="#top" aria-label="ZENVY home">
+          <span class="brand-mark">
+            <img src="assets/Png-01.png" alt="ZENVY Brand Emblem" />
+          </span>
+          <div class="brand-copy">
+            <span class="brand-text">ZENVY</span>
+            <span class="brand-sub">Clinic OS</span>
+          </div>
+        </a>
+
+        <div class="nav-links" aria-label="Main navigation links">
+          <a href="#features">Product</a>
+          <a href="#feature-grid">Features</a>
+          <a href="#experience">Experiences</a>
+          <a href="#workflow">How It Works</a>
+          <a href="#support">Support</a>
+        </div>
+
+        <div class="nav-actions">
+          <button class="btn btn-ghost login-trigger" type="button">Login</button>
+          <a class="btn btn-primary" href="#support">Get Started</a>
+        </div>
+
+        <button
+          class="mobile-menu-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="mobile-menu"
+          aria-label="Toggle navigation menu"
+        >
+          <span></span><span></span><span></span>
+        </button>
+      </nav>
+
+      <div class="mobile-nav" id="mobile-menu" aria-hidden="true">
+        <a href="#features">Product</a>
+        <a href="#feature-grid">Features</a>
+        <a href="#experience">Experiences</a>
+        <a href="#workflow">How It Works</a>
+        <a href="#support">Support</a>
+        <button class="btn btn-primary login-trigger" type="button">Login to Clinic</button>
+      </div>
+    </header>
+
+    <main>
+
+      <!-- ═══════════════════ HERO SECTION ═══════════════════ -->
+      <section class="hero">
+        <div class="hero-ambient-glow"></div>
+        <div class="container hero-grid">
+          <div class="hero-copy reveal">
+            <span class="eyebrow">Connected Clinic Platform</span>
+            <h1>
+              Clinic Management,<br />
+              <span class="highlight-word">Simplified.</span>
+            </h1>
+            <p>
+              ZENVY seamlessly connects doctors, receptionists, and patients on one intelligent platform —
+              orchestrating appointments, real-time queues, clinical consultations, billing, pharmacy inventory,
+              and electronic medical records in one synchronized workflow.
+            </p>
+            <div class="hero-cta-row">
+              <a class="btn btn-primary" href="#features">Explore Platform</a>
+              <a class="btn btn-secondary" href="#workflow">See How It Works</a>
+              <button class="btn btn-link login-trigger" type="button">Login →</button>
+            </div>
+            <div class="hero-badges">
+              <span class="hero-badge"><span class="bdot"></span>Patient Experience</span>
+              <span class="hero-badge"><span class="bdot"></span>Reception Desk</span>
+              <span class="hero-badge"><span class="bdot"></span>Doctor Workspace</span>
+            </div>
+          </div>
+
+          <div class="hero-visual reveal" aria-label="Modern doctor consulting in clinic">
+            <div class="hero-image-stage">
+              <img
+                src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=1000&q=85"
+                alt="Doctor smiling warmly in clinic consultation room"
+              />
+              <!-- Floating Clinic Status Badges (Strictly inside stage boundaries) -->
+              <div class="hero-floating-card hf-top">
+                <div class="hf-label">Live Clinic Queue</div>
+                <div class="hf-val">12</div>
+                <div class="hf-desc">Patients waiting · 6 min avg</div>
+              </div>
+              <div class="hero-floating-card hf-bottom">
+                <span class="hf-dot-pulse"></span>
+                <div class="hf-info">
+                  <strong>Dr. Sharma · Consultation Room 1</strong>
+                  <small>Status: In Session · Next: 10:45 AM</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ TRUST & FLOW STRIP ═══════════════════ -->
+      <section class="trust-strip">
+        <div class="container trust-inner">
+          <span class="trust-title">Everything Your Clinic Needs · One Unified Platform</span>
+          <div class="trust-row">
+            <span class="trust-chip"><span class="tc-icon">📅</span>Smart Appointments</span>
+            <span class="trust-chip"><span class="tc-icon">⏱️</span>Live Queue Management</span>
+            <span class="trust-chip"><span class="tc-icon">🩺</span>Digital Consultations</span>
+            <span class="trust-chip"><span class="tc-icon">🧾</span>Instant Billing</span>
+            <span class="trust-chip"><span class="tc-icon">💊</span>Dispensary &amp; Inventory</span>
+            <span class="trust-chip"><span class="tc-icon">📋</span>Connected Patient Records</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ STORY / PROBLEM SECTION ═══════════════════ -->
+      <section class="section story-section" id="problem">
+        <div class="container story-grid">
+          <div class="story-copy reveal">
+            <span class="kicker">Workflow Clarity</span>
+            <h2>Clinic management shouldn't feel fragmented.</h2>
+            <p>
+              In traditional clinics, patient appointments happen in one logbook, registration takes place on paper,
+              the queue is managed verbally, billing happens on separate software, and consultation history is scattered.
+            </p>
+            <p>
+              Every disconnected system causes delays, frustrates patients, and burdens healthcare staff.
+            </p>
+            <div class="story-highlight-card">
+              ZENVY bridges reception, consultation, and pharmacy into one harmonious clinic journey.
+            </div>
+          </div>
+
+          <div class="workflow-compare reveal" aria-label="Comparison between disconnected and connected clinic workflows">
+            <div class="wf-box traditional">
+              <div class="wf-box-header">
+                <span>❌ Traditional Disconnected Clinic</span>
+              </div>
+              <div class="wf-step-list">
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Manual appointment phone calls</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Paper-based registration forms</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Unpredictable waiting room delays</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Isolated paper prescriptions</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Disconnected billing desk</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Missing medical history records</div>
+              </div>
+            </div>
+
+            <div class="wf-box connected">
+              <div class="wf-box-header">
+                <span>✅ ZENVY Connected Clinic Platform</span>
+              </div>
+              <div class="wf-step-list">
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Instant digital &amp; walk-in booking</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Single-click receptionist registration</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Automated live queue board</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Digital consultation &amp; Rx workflow</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Connected billing &amp; receipts</div>
+                <div class="wf-step-pill"><span class="wf-step-dot"></span>Permanent digital patient records</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ FEATURES GRID SECTION ═══════════════════ -->
+      <section class="section features-section" id="features">
+        <div class="container">
+          <div class="section-head reveal">
+            <span class="kicker">All-in-One Platform</span>
+            <h2>Everything Your Clinic Needs in One Platform</h2>
+            <p>Nine dedicated modules built specifically for doctors, reception teams, and patients to collaborate effortlessly.</p>
+          </div>
+
+          <div class="feature-grid reveal" id="feature-grid">
+
+            <!-- 1. Doctor Management -->
+            <article class="feature-card" data-video-key="doctor">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M8 10a4 4 0 1 1 8 0v1a4 4 0 1 1-8 0v-1Zm-5 7a4 4 0 0 1 4-4h2v2a4 4 0 0 1-4 4H3v-2Zm15 0h2v2a4 4 0 0 1-4 4h-2v-2a4 4 0 0 1 4-4Z"/></svg>
+                </div>
+                <span class="fc-badge">Doctor</span>
+              </div>
+              <h3>Doctor Workspace</h3>
+              <p>An intuitive interface for physicians to manage appointments, review patient history, and create digital prescriptions.</p>
+              <ul>
+                <li>Active consultations workspace</li>
+                <li>Comprehensive patient history</li>
+                <li>Digital prescription generator</li>
+                <li>Doctor availability scheduling</li>
+                <li>Follow-up tracker &amp; clinical notes</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=600&q=80" alt="Doctor in clinic consultation office" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="doctor">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 2. Receptionist Workspace -->
+            <article class="feature-card" data-video-key="receptionist">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M5 18V7a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v11M9 8h6M9 12h6m-6 4h4"/></svg>
+                </div>
+                <span class="fc-badge">Front Desk</span>
+              </div>
+              <h3>Receptionist Operations</h3>
+              <p>Empower your front-desk team to register walk-ins, schedule consultations, and keep the patient queue flowing smoothly.</p>
+              <ul>
+                <li>Fast patient registration</li>
+                <li>Walk-in &amp; emergency check-in</li>
+                <li>Appointment slot management</li>
+                <li>Reception billing &amp; fee collection</li>
+                <li>Real-time patient flow coordination</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=600&q=80" alt="Clinic reception counter" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="receptionist">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 3. Patient Experience -->
+            <article class="feature-card" data-video-key="patient">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M7 18a5 5 0 0 1 10 0M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"/></svg>
+                </div>
+                <span class="fc-badge">Patient</span>
+              </div>
+              <h3>Patient Portal</h3>
+              <p>Deliver a modern digital patient experience — from finding doctor availability to tracking queue status live on phone.</p>
+              <ul>
+                <li>Online doctor discovery</li>
+                <li>Instant appointment booking</li>
+                <li>Live queue tracking from anywhere</li>
+                <li>Digital prescription downloads</li>
+                <li>Past visit summary &amp; lab records</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=600&q=80" alt="Patient in modern clinic setting" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="patient">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 4. Smart Appointment Management -->
+            <article class="feature-card" data-video-key="appointments">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M7 3v3m10-3v3M5 9h14M6 5h12a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z"/></svg>
+                </div>
+                <span class="fc-badge">Scheduling</span>
+              </div>
+              <h3>Smart Appointments</h3>
+              <p>Coordinate multi-doctor clinic schedules, eliminate double-bookings, and automate reminder alerts for patients.</p>
+              <ul>
+                <li>Multi-doctor calendar sync</li>
+                <li>Real-time slot availability</li>
+                <li>Automated appointment SMS/WhatsApp</li>
+                <li>Walk-in slot balancing</li>
+                <li>Rescheduling &amp; cancellation flow</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=600&q=80" alt="Doctor consultation scheduling in clinic" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="appointments">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 5. Queue Management -->
+            <article class="feature-card" data-video-key="queue">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M8 7h10M8 12h10M8 17h10M5 7h.01M5 12h.01M5 17h.01"/></svg>
+                </div>
+                <span class="fc-badge">Real-Time</span>
+              </div>
+              <h3>Live Queue System</h3>
+              <p>Keep the waiting room calm and transparent with live token displays and real-time waiting time estimations.</p>
+              <ul>
+                <li>Live token display board</li>
+                <li>Real-time wait estimation</li>
+                <li>Doctor-call notification system</li>
+                <li>Emergency bypass prioritization</li>
+                <li>Patient status visibility on mobile</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80" alt="Clean clinic waiting room" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="queue">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 6. Digital Consultation -->
+            <article class="feature-card" data-video-key="consultation">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2M9 5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2M9 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/></svg>
+                </div>
+                <span class="fc-badge">Clinical</span>
+              </div>
+              <h3>Digital Consultation</h3>
+              <p>Capture clinical findings, vitals, diagnoses, and custom prescription templates in seconds during consultation.</p>
+              <ul>
+                <li>Quick-entry prescription templates</li>
+                <li>Diagnosis (ICD-ready) tagging</li>
+                <li>Vitals &amp; allergy alerts</li>
+                <li>Lab test orders &amp; diagnostic requests</li>
+                <li>Follow-up date scheduling</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80" alt="Doctor consulting patient in clinic" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="consultation">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 7. Billing -->
+            <article class="feature-card" data-video-key="billing">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M4 7h16v10H4zm4 4h8M8 15h3"/></svg>
+                </div>
+                <span class="fc-badge">Finance</span>
+              </div>
+              <h3>Clinic Billing &amp; Invoicing</h3>
+              <p>Automated billing generated directly from consultations, procedures, and pharmacy items in a single click.</p>
+              <ul>
+                <li>One-click invoice generation</li>
+                <li>UPI, card &amp; cash payment tracking</li>
+                <li>Consultation + pharmacy split billing</li>
+                <li>Itemized printable tax receipts</li>
+                <li>Daily clinic revenue summaries</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80" alt="Clinic administrator handling billing" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="billing">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 8. Inventory -->
+            <article class="feature-card" data-video-key="inventory">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M4 9h16l-1.5 9H5.5L4 9Zm4-4h8l1 4H7l1-4Z"/></svg>
+                </div>
+                <span class="fc-badge">Pharmacy</span>
+              </div>
+              <h3>Pharmacy &amp; Inventory</h3>
+              <p>Track clinic dispensary stock, medicine expiry dates, and batch inventory seamlessly linked to prescriptions.</p>
+              <ul>
+                <li>Real-time medicine stock tracking</li>
+                <li>Low-stock &amp; expiry alerts</li>
+                <li>Prescription auto-dispense link</li>
+                <li>Batch &amp; supplier management</li>
+                <li>Consumables &amp; clinic asset logs</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&w=600&q=80" alt="Organized pharmacy medicine shelves" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="inventory">Watch Module Demo →</button>
+              </div>
+            </article>
+
+            <!-- 9. Patient Records -->
+            <article class="feature-card" data-video-key="records">
+              <div class="fc-top">
+                <div class="fc-icon-wrap" aria-hidden="true">
+                  <svg viewBox="0 0 24 24"><path d="M7 4h9l4 4v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm8 0v4h4M9 13h6M9 17h6"/></svg>
+                </div>
+                <span class="fc-badge">EHR</span>
+              </div>
+              <h3>Connected Patient Records</h3>
+              <p>Secure, longitudinal patient records accessible by authorized clinic staff with full timeline history.</p>
+              <ul>
+                <li>Complete consultation chronology</li>
+                <li>Past lab reports &amp; scanned records</li>
+                <li>Family member profile linking</li>
+                <li>Privacy &amp; consent controls</li>
+                <li>Fast patient search by phone or ID</li>
+              </ul>
+              <div class="fc-img-box">
+                <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80" alt="Doctor reviewing digital health records on tablet" />
+              </div>
+              <div class="fc-action">
+                <button class="fc-demo-link watch-demo" type="button" data-video-key="records">Watch Module Demo →</button>
+              </div>
+            </article>
+
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ THREE CONNECTED EXPERIENCES ═══════════════════ -->
+      <section class="section experiences-section" id="experience">
+        <div class="container">
+          <div class="section-head center reveal">
+            <span class="kicker">Tailored Interfaces</span>
+            <h2>One Clinic. Three Connected Experiences.</h2>
+            <p>Every role in your clinic gets a purpose-built workspace — fully synchronized in real time.</p>
+          </div>
+
+          <div class="exp-lane reveal">
+            <article class="exp-card">
+              <div class="exp-img-frame">
+                <img
+                  src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=800&q=85"
+                  alt="Patient consultation in modern clinic"
+                />
+              </div>
+              <div class="exp-body">
+                <h3>Patient Experience</h3>
+                <p class="exp-role-tag">Mobile &amp; Web Access</p>
+                <ul>
+                  <li>Browse clinic doctors &amp; timings</li>
+                  <li>Schedule online appointments</li>
+                  <li>Live queue status from phone</li>
+                  <li>Digital prescriptions &amp; lab history</li>
+                  <li>Follow-up visit notifications</li>
+                </ul>
+              </div>
+            </article>
+
+            <article class="exp-card">
+              <div class="exp-img-frame">
+                <img
+                  src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=800&q=85"
+                  alt="Clinic receptionist greeting patient"
+                />
+              </div>
+              <div class="exp-body">
+                <h3>Receptionist Desk</h3>
+                <p class="exp-role-tag">Front-Desk Operations</p>
+                <ul>
+                  <li>Single-screen patient check-in</li>
+                  <li>Walk-in token generation</li>
+                  <li>Queue management &amp; doctor calling</li>
+                  <li>Instant billing &amp; payment collection</li>
+                  <li>Clinic inventory monitoring</li>
+                </ul>
+              </div>
+            </article>
+
+            <article class="exp-card">
+              <div class="exp-img-frame">
+                <img
+                  src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=85"
+                  alt="Doctor consulting patient in medical office"
+                />
+              </div>
+              <div class="exp-body">
+                <h3>Doctor Workspace</h3>
+                <p class="exp-role-tag">Clinical Efficiency</p>
+                <ul>
+                  <li>Focused consultation chamber view</li>
+                  <li>Instant patient history &amp; allergies</li>
+                  <li>Template-based digital Rx</li>
+                  <li>Clinic schedule &amp; break controls</li>
+                  <li>Referral &amp; investigation ordering</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+
+          <p class="exp-footer-tagline reveal">One connected clinic workflow. <span>Zero friction.</span></p>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ TIMELINE SECTION ═══════════════════ -->
+      <section class="section workflow-section" id="workflow">
+        <div class="container">
+          <div class="section-head reveal">
+            <span class="kicker">Complete Clinic Workflow</span>
+            <h2>From Appointment to Follow-Up — One Connected Journey</h2>
+            <p>Experience how every step of the patient lifecycle flows effortlessly through ZENVY.</p>
+          </div>
+
+          <div class="timeline-track-wrap reveal">
+            <div class="timeline-items" aria-label="Step by step clinic journey">
+              <div class="tl-node"><span class="tl-step-badge">01</span><p>Online &amp; Walk-in Booking</p></div>
+              <div class="tl-node"><span class="tl-step-badge">02</span><p>Fast Registration</p></div>
+              <div class="tl-node"><span class="tl-step-badge">03</span><p>Live Queue Tracking</p></div>
+              <div class="tl-node"><span class="tl-step-badge">04</span><p>Clinical Consultation</p></div>
+              <div class="tl-node"><span class="tl-step-badge">05</span><p>Digital Prescription</p></div>
+              <div class="tl-node"><span class="tl-step-badge">06</span><p>Unified Billing</p></div>
+              <div class="tl-node"><span class="tl-step-badge">07</span><p>Dispensary Inventory</p></div>
+              <div class="tl-node"><span class="tl-step-badge">08</span><p>Digital Records</p></div>
+              <div class="tl-node"><span class="tl-step-badge">09</span><p>Patient Follow-ups</p></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ DIGITAL VALUE SECTION ═══════════════════ -->
+      <section class="section value-section">
+        <div class="container">
+          <div class="section-head reveal">
+            <span class="kicker">Digital Transformation</span>
+            <h2>Make Your Clinic Digitally Accessible</h2>
+            <p>Elevate your clinic brand with modern patient touchpoints and streamlined clinical operations.</p>
+          </div>
+
+          <div class="value-grid reveal">
+            <article class="value-card">
+              <div class="vc-icon-chip">🧑‍⚕️</div>
+              <h3>Digital Doctor Profile</h3>
+              <p>Showcase qualifications, specialties, and clinical experience to patients online.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">🏥</div>
+              <h3>Digital Clinic Profile</h3>
+              <p>Establish a verified digital presence for clinic timings, location, and facilities.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">📅</div>
+              <h3>Online Appointments</h3>
+              <p>Allow patients to view open slots and book appointments 24/7 without calling.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">⏰</div>
+              <h3>Doctor Availability</h3>
+              <p>Instantly update shift timings, emergency leave, or consultation chamber shifts.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">💊</div>
+              <h3>Digital Prescriptions</h3>
+              <p>Send clear, legible digital prescriptions straight to patient smartphones.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">📁</div>
+              <h3>Lifetime Health Records</h3>
+              <p>Securely maintain continuous diagnostic and treatment histories in one vault.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">🔄</div>
+              <h3>Hybrid Online + Offline</h3>
+              <p>Seamlessly coordinate walk-in OPD patients alongside online booked visits.</p>
+            </article>
+            <article class="value-card">
+              <div class="vc-icon-chip">⚡</div>
+              <h3>Centralized Operations</h3>
+              <p>Monitor multi-branch clinic doctors, revenue, and footfall on a single dashboard.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ SECURITY & COMPLIANCE ═══════════════════ -->
+      <section class="section security-section">
+        <div class="container">
+          <div class="security-enclosure reveal">
+            <div class="section-head">
+              <span class="kicker">Privacy &amp; Data Security</span>
+              <h2>Built With Healthcare-Grade Security and Privacy</h2>
+              <p>Protecting sensitive patient information through modern encryption, access barriers, and role-based permissions.</p>
+            </div>
+
+            <div class="security-grid">
+              <div class="sec-item">
+                <span class="sec-symbol">🔐</span>
+                <h3>Secure Authentication</h3>
+                <p>Multi-factor login and session protection for doctors and clinic staff.</p>
+              </div>
+              <div class="sec-item">
+                <span class="sec-symbol">👥</span>
+                <h3>Role-Based Access</h3>
+                <p>Receptionists, doctors, and accountants only see data relevant to their role.</p>
+              </div>
+              <div class="sec-item">
+                <span class="sec-symbol">🛡️</span>
+                <h3>Patient Privacy</h3>
+                <p>Strict patient confidentiality protocols and restricted health record sharing.</p>
+              </div>
+              <div class="sec-item">
+                <span class="sec-symbol">💾</span>
+                <h3>Automated Backups</h3>
+                <p>Encrypted cloud data backups ensuring zero clinical data loss.</p>
+              </div>
+              <div class="sec-item">
+                <span class="sec-symbol">📑</span>
+                <h3>Audit Logging</h3>
+                <p>Complete traceability of billing revisions and patient record accesses.</p>
+              </div>
+            </div>
+
+            <p class="sec-disclaimer">
+              🔒 Security, compliance, and access management features reflect platform functionality implemented by ZENVY. Healthcare organizations maintain data sovereignty under applicable regional regulations.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ SOCIAL PROOF ═══════════════════ -->
+      <section class="section proof-section">
+        <div class="container">
+          <div class="section-head center reveal">
+            <span class="kicker">Modern Clinic Ecosystem</span>
+            <h2>Built for Modern Clinics &amp; Practices</h2>
+          </div>
+
+          <div class="proof-grid reveal">
+            <article class="proof-card">
+              <span class="proof-tag">Single &amp; Multi-Specialty Clinics</span>
+              <h3>Streamlined OPD Operations</h3>
+              <p>Designed for outpatient practices seeking to eliminate long patient wait times and administrative overload.</p>
+            </article>
+            <article class="proof-card">
+              <span class="proof-tag">Independent Practitioners</span>
+              <h3>Doctor-First Simplicity</h3>
+              <p>A fast, paperless consultation system that lets physicians focus 100% on patient care rather than paperwork.</p>
+            </article>
+            <article class="proof-card">
+              <span class="proof-tag">Polyclinics &amp; Nursing Homes</span>
+              <h3>Unified Clinic Administration</h3>
+              <p>Centralized billing, shared dispensary inventory, and multi-doctor coordination in one platform.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ INTERACTIVE SALES TOPIC BOARD ═══════════════════ -->
+      <section class="section sales-section" id="demo">
+        <div class="container">
+          <div class="sales-board reveal">
+            <span class="kicker">Clinic Workflow Assessment</span>
+            <h2>"What takes the most time in managing your clinic today?"</h2>
+
+            <div class="topic-selector" aria-label="Clinic workflow topic options">
+              <button class="topic-pill is-active" type="button" data-topic="appointment">Appointment Management</button>
+              <button class="topic-pill" type="button" data-topic="queue">Patient Waiting &amp; Queue</button>
+              <button class="topic-pill" type="button" data-topic="billing">Billing &amp; Receipts</button>
+              <button class="topic-pill" type="button" data-topic="inventory">Dispensary &amp; Stock</button>
+              <button class="topic-pill" type="button" data-topic="records">Patient Records &amp; Rx</button>
+              <button class="topic-pill" type="button" data-topic="reception">Reception Desk Bottlenecks</button>
+              <button class="topic-pill" type="button" data-topic="consultation">Doctor Consultation Flow</button>
+            </div>
+
+            <div class="topic-display" id="topic-panel" aria-live="polite">
+              ZENVY seamlessly coordinates online appointment booking with doctor availability schedules, eliminating double-bookings and keeping patients updated automatically.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ FINAL CALL TO ACTION ═══════════════════ -->
+      <section class="section final-cta-section">
+        <div class="container">
+          <div class="cta-stage reveal">
+            <div class="cta-copy">
+              <span class="kicker">Ready for Connected Care?</span>
+              <h2>From the reception desk to the consultation room — connect your clinic with ZENVY.</h2>
+              <p>Experience how appointments, queues, clinical consultations, billing, and patient records work in complete synchronization.</p>
+            </div>
+            <div class="cta-actions">
+              <button class="btn btn-dark login-trigger" type="button">Login to Clinic</button>
+              <a class="btn btn-secondary" href="#support">Get Started Today</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ SUPPORT & ONBOARDING ═══════════════════ -->
+      <section class="section support-section" id="support">
+        <div class="container">
+          <div class="section-head center reveal">
+            <span class="kicker">We're Here to Help</span>
+            <h2>Need Help Getting Started?</h2>
+            <p>Our dedicated clinic success team is here to assist with onboarding, data migration, and training.</p>
+          </div>
+
+          <div class="support-grid reveal">
+            <article class="support-card">
+              <span class="support-glyph">💬</span>
+              <h3>Product Support</h3>
+              <p>Have questions about features, settings, or integrations? Our technical team is ready.</p>
+              <button class="btn btn-secondary support-action" type="button" data-message="Support team will contact you via email shortly.">Contact Support</button>
+            </article>
+
+            <article class="support-card">
+              <span class="support-glyph">🏥</span>
+              <h3>Doctor &amp; Clinic Onboarding</h3>
+              <p>Set up your clinic profile, configure doctor timings, and train your reception staff in minutes.</p>
+              <button class="btn btn-primary support-action" type="button" data-message="Onboarding specialist assigned. We'll reach out within 2 hours.">Start Onboarding</button>
+            </article>
+
+            <article class="support-card">
+              <span class="support-glyph">📱</span>
+              <h3>Patient Help Desk</h3>
+              <p>Need assistance finding appointments, accessing prescriptions, or recovering an account?</p>
+              <button class="btn btn-secondary support-action" type="button" data-message="Patient care representative available at support@zenvy.co.in">Patient Support</button>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ═══════════════════ FAQ SECTION ═══════════════════ -->
+      <section class="section faq-section" id="faq">
+        <div class="container">
+          <div class="section-head center reveal">
+            <span class="kicker">Got Questions?</span>
+            <h2>Frequently Asked Questions</h2>
+          </div>
+
+          <div class="faq-container reveal">
+            <div class="faq-list">
+              <div class="faq-item is-open">
+                <button class="faq-question" type="button" aria-expanded="true">
+                  <span>What is ZENVY and how does it help my clinic?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>ZENVY is an all-in-one clinic management platform designed to connect receptionists, doctors, and patients. It unifies appointments, real-time queues, digital consultations, pharmacy inventory, and billing into one synchronized system, eliminating manual paperwork and waiting room congestion.</p>
+                </div>
+              </div>
+
+              <div class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false">
+                  <span>How does queue management work for walk-in vs. booked patients?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>When online or walk-in patients arrive, the receptionist checks them in with a single click. The platform generates an intelligent queue token that balances pre-scheduled appointments with walk-ins, broadcasting live status updates to patient smartphones and clinic waiting displays.</p>
+                </div>
+              </div>
+
+              <div class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false">
+                  <span>Can doctors create and customize digital prescriptions?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>Yes. The doctor workspace allows physicians to quickly create branded digital prescriptions using customizable drug templates, dosage frequency shortcuts, and diagnostic test order sets, which patients can access instantly via their portal.</p>
+                </div>
+              </div>
+
+              <div class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false">
+                  <span>Does ZENVY handle billing, receipts, and pharmacy stock?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>Absolutely. When a doctor concludes a consultation, items are automatically aggregated onto the billing desk. Receipts can be printed or sent electronically, while dispensed medicines are subtracted in real time from your clinic dispensary inventory.</p>
+                </div>
+              </div>
+
+              <div class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false">
+                  <span>Is patient data secure and protected?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>Yes. ZENVY incorporates strict role-based access control, encrypted transmission, automated backups, and multi-factor authentication, ensuring patient records and clinic financial information remain confidential and secure.</p>
+                </div>
+              </div>
+
+              <div class="faq-item">
+                <button class="faq-question" type="button" aria-expanded="false">
+                  <span>How can my clinic get started with ZENVY?</span>
+                  <span class="faq-toggle">+</span>
+                </button>
+                <div class="faq-answer">
+                  <p>Getting started is quick and simple. Click 'Get Started' to request onboarding assistance or register your clinic. Our team helps configure your doctor profiles, clinic timings, and service lists so you can go live smoothly.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ═══════════════════ SITE FOOTER ═══════════════════ -->
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-brand">
+          <a class="brand" href="#top" aria-label="ZENVY home">
+            <span class="brand-mark">
+              <img src="assets/Png-01.png" alt="ZENVY Logo" />
+            </span>
+            <div class="brand-copy">
+              <span class="brand-text">ZENVY</span>
+              <span class="brand-sub">Clinic OS</span>
+            </div>
+          </a>
+          <p>Connected, intelligent clinic management platform for patients, receptionists, and doctors.</p>
+        </div>
+
+        <div>
+          <h3>Product</h3>
+          <ul>
+            <li><a href="#features">Platform Features</a></li>
+            <li><a href="#workflow">How It Works</a></li>
+            <li><a href="#experience">Patient Portal</a></li>
+            <li><a href="#features">Doctor Workspace</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Company</h3>
+          <ul>
+            <li><a href="#problem">About ZENVY</a></li>
+            <li><a href="#support">Customer Support</a></li>
+            <li><a href="#support">Contact Sales</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Resources</h3>
+          <ul>
+            <li><a href="#faq">Frequently Asked</a></li>
+            <li><a href="#demo">Workflow Demos</a></li>
+            <li><a href="#top">Documentation</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Clinic Portals</h3>
+          <ul>
+            <li><button class="footer-login-btn login-trigger" type="button" data-login-target="patient">Patient Portal Login →</button></li>
+            <li><button class="footer-login-btn login-trigger" type="button" data-login-target="doctorAdmin">Doctor / Admin Login →</button></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="container footer-bottom">
+        <p>© 2026 ZENVY Healthcare Technologies. All rights reserved.</p>
+        <div class="legal-links">
+          <a href="#top">Privacy Policy</a>
+          <a href="#top">Terms of Service</a>
+          <a href="#top">Security Overview</a>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ═══════════════════ LOGIN MODAL ═══════════════════ -->
+    <div class="modal login-modal" id="loginModal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal="true"></div>
+      <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="loginModalTitle">
+        <button class="modal-close" type="button" aria-label="Close dialog">×</button>
+        <div class="modal-header">
+          <span class="modal-kicker">Secure Access</span>
+          <h2 id="loginModalTitle">Welcome to ZENVY</h2>
+          <p class="modal-subtitle">Choose your portal to sign in to your clinic</p>
+        </div>
+
+        <div class="login-options">
+          <a class="login-card" href="https://zenvy.co.in/user" target="_blank" rel="noreferrer">
+            <div class="login-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M7 18a5 5 0 0 1 10 0M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"/></svg>
+            </div>
+            <div class="login-copy">
+              <h3>Patient Portal</h3>
+              <p>View your appointments, track queue position, and access your digital prescriptions and health records.</p>
+            </div>
+            <span class="login-action-btn">Sign in as Patient →</span>
+          </a>
+
+          <a class="login-card" href="https://zenvy.co.in/pro/" target="_blank" rel="noreferrer">
+            <div class="login-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M8 10a4 4 0 1 1 8 0v1a4 4 0 1 1-8 0v-1Zm-5 7a4 4 0 0 1 4-4h2v2a4 4 0 0 1-4 4H3v-2Zm15 0h2v2a4 4 0 0 1-4 4h-2v-2a4 4 0 0 1 4-4Z"/></svg>
+            </div>
+            <div class="login-copy">
+              <h3>Doctor &amp; Admin Portal</h3>
+              <p>Manage consultations, appointments, patient registration, pharmacy inventory, and clinic billing.</p>
+            </div>
+            <span class="login-action-btn">Sign in as Doctor / Admin →</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- ═══════════════════ VIDEO DEMO MODAL ═══════════════════ -->
+    <div class="modal video-modal" id="videoModal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal="true"></div>
+      <div class="video-dialog" role="dialog" aria-modal="true" aria-labelledby="videoModalTitle">
+        <button class="modal-close" type="button" aria-label="Close video player">×</button>
+        <div class="video-player" id="videoPlayer">
+          <div class="video-placeholder" aria-live="polite">
+            <div class="play-indicator">▶</div>
+            <h3 id="videoModalTitle">ZENVY Product Walkthrough</h3>
+            <p>Interactive module demo preview</p>
+          </div>
+        </div>
+        <div class="video-meta">
+          <h3 id="videoFeatureTitle">ZENVY Feature Demonstration</h3>
+          <p id="videoFeatureDescription">Learn how ZENVY connects clinic operations.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

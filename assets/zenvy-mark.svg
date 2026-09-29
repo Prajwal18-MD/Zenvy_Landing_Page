@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#ffffff"/>
+  <!-- Maroon / Brown Hourglass Z-mark inspired by brand logo -->
+  <path d="M12 12C12 12 18 19 24 19C30 19 36 12 36 12C36 12 30 24 24 24C18 24 12 12 12 12Z" fill="#781128"/>
+  <path d="M12 36C12 36 18 29 24 29C30 29 36 36 36 36C36 36 30 24 24 24C18 24 12 36 12 36Z" fill="#781128"/>
+  <circle cx="24" cy="24" r="3.5" fill="#fab62d"/>
+  <circle cx="24" cy="9.5" r="2.5" fill="#1b0e0e"/>
+  <circle cx="24" cy="38.5" r="2.5" fill="#1b0e0e"/>
+</svg>
