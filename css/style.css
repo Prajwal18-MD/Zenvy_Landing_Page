@@ -1488,6 +1488,11 @@ button {
   font-size: 0.94rem;
 }
 
+.support-card .btn::before {
+  content: "💬";
+  margin-right: 8px;
+}
+
 .support-status {
   margin-top: 14px;
   padding: 10px 14px;
