@@ -64,7 +64,83 @@ const featureMeta = {
   }
 };
 
+const legalContent = {
+  privacy: {
+    title: 'Privacy Policy',
+    body: `
+      <div class="legal-content">
+        <p><strong>Zenvy</strong> is committed to protecting the privacy of patients, doctors, clinic staff, and visitors using our platform. This Privacy Policy covers the data collected through www.zenvy.co.in, the Zenvy mobile app, and related digital services.</p>
+        <h3>What information we collect</h3>
+        <p>We may collect contact information, demographic details, appointment and service usage data, health-related information, practitioner details, and voluntary submissions received through email, calls, forms, or support interactions. This can include names, phone numbers, email IDs, date of birth, gender, address, consultation history, and other sensitive personal information necessary to deliver clinical services.</p>
+        <h3>How we use that information</h3>
+        <ul>
+          <li>To help patients book appointments, track queues, and access care records.</li>
+          <li>To help doctors and clinics manage consultations, billing, follow-ups, and clinic operations.</li>
+          <li>To improve platform performance, communication quality, and service reliability.</li>
+          <li>To support account management, support requests, and transaction processing.</li>
+        </ul>
+        <h3>Sharing and disclosure</h3>
+        <p>Zenvy may share data with authorized service providers, payment processors, clinic staff, and technology vendors only where required to deliver the platform or as permitted by law. We do not sell or monetize personal health information. We also use reasonable technical and organizational safeguards to protect sensitive data.</p>
+        <h3>Security and consent</h3>
+        <p>The platform follows privacy and security best practices, including encrypted communication, access controls, and internal data handling policies. By using Zenvy, you consent to the collection and processing of data required for the services you use, and you acknowledge that your information may be retained as needed for legal, operational, or service requirements.</p>
+        <h3>Rights and communications</h3>
+        <p>Users may request support, account deletion, or data-related assistance through Zenvy support channels. Communications, alerts, reminders, and service updates may be sent via calls, SMS, email, or WhatsApp, subject to applicable consent and preferences.</p>
+      </div>
+    `
+  },
+  terms: {
+    title: 'Terms & Conditions',
+    body: `
+      <div class="legal-content">
+        <p>These Terms &amp; Conditions form the agreement between you and Zenvy for use of the Zenvy platform and related services, including appointment booking, patient management, queue coordination, doctor access, and clinic operations.</p>
+        <h3>Eligibility and account responsibility</h3>
+        <p>You must be an eligible adult and agree to provide accurate information when registering or using the platform. You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account.</p>
+        <h3>Patient and caregiver use</h3>
+        <ul>
+          <li>Zenvy is a platform for discovery, scheduling, and service coordination; it is not a replacement for emergency care or direct doctor-patient relationship creation.</li>
+          <li>Patients are responsible for verifying practitioner availability, appointment details, and healthcare information independently.</li>
+          <li>Content and health information displayed on the platform are provided on an “as is” basis and may be updated without notice.</li>
+        </ul>
+        <h3>Practitioner and clinic use</h3>
+        <p>Doctors and clinics are responsible for keeping profile information, clinical schedules, and operational data accurate and compliant with applicable Indian laws. Zenvy may review or remove content that violates law, public safety, or platform terms.</p>
+        <h3>Content and platform rights</h3>
+        <p>Zenvy owns the rights to platform content, branding, software, and system design. Users may access the platform for lawful use only and may not copy, distribute, reverse engineer, or extract proprietary content without permission.</p>
+        <h3>Termination, liability, and dispute resolution</h3>
+        <p>Zenvy may suspend or terminate access for fraud, misuse, misinformation, or policy violations. To the maximum extent permitted by law, Zenvy limits liability for indirect or consequential damages, and disputes are governed by Indian law, with arbitration in Bengaluru, India.</p>
+        <h3>Notifications and updates</h3>
+        <p>We may update these terms from time to time. Continued use of the platform after an update indicates acceptance of the revised terms and conditions.</p>
+      </div>
+    `
+  },
+  security: {
+    title: 'Security Overview',
+    body: `
+      <div class="legal-content">
+        <p>Zenvy is designed to protect patient information and clinic operations through secure access controls, encrypted communication, and role-based permissions.</p>
+        <h3>Key security principles</h3>
+        <ul>
+          <li><strong>Encrypted communication:</strong> Web dashboards, patient links, and system communications use secure HTTPS connections.</li>
+          <li><strong>Role-based access:</strong> Doctors, reception staff, and administrators only access the information required for their role.</li>
+          <li><strong>Patient privacy:</strong> Clinical records are segmented so only authorized healthcare users can review sensitive patient history.</li>
+          <li><strong>Compliance-first operations:</strong> Data handling is designed to support privacy-first healthcare workflows and responsible clinic management.</li>
+          <li><strong>Communication control:</strong> SMS and WhatsApp-based notifications include opt-out support so patients can stop receiving alerts when they choose.</li>
+        </ul>
+        <h3>Data handling</h3>
+        <p>Zenvy does not sell or monetize personal health data. Patient demographic and medical information are processed to deliver appointment coordination, queue updates, prescriptions, records, and clinic operations only. Audit trails, secure sessions, and access controls help reduce misuse and strengthen accountability.</p>
+        <h3>Support and transparency</h3>
+        <p>If you have questions about privacy, patient communication, or platform security, contact the Zenvy support team at privacy@zenvyhealth.com or support@zenvyhealth.com.</p>
+      </div>
+    `
+  }
+};
+
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+window.ZENVY_GOOGLE_SHEETS = window.ZENVY_GOOGLE_SHEETS || {
+  support: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec',
+  onboarding: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec',
+  patient: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec'
+};
 
 function initLoginCardTargets() {
   const patientCard = document.querySelector('.login-card[data-login-target="patient"]');
@@ -289,19 +365,137 @@ function initSupportButtons() {
     button.addEventListener('click', () => {
       const message = button.dataset.message || 'Support contact coming soon';
       const supportCard = button.closest('.support-card');
-      if (!supportCard) return;
-
-      const existing = supportCard.querySelector('.support-status');
-      if (existing) {
-        existing.textContent = message;
-        return;
+      if (supportCard) {
+        const existing = supportCard.querySelector('.support-status');
+        if (existing) {
+          existing.textContent = message;
+        } else {
+          const status = document.createElement('p');
+          status.className = 'support-status';
+          status.textContent = message;
+          supportCard.appendChild(status);
+        }
       }
 
-      const status = document.createElement('p');
-      status.className = 'support-status';
-      status.textContent = message;
-      supportCard.appendChild(status);
+      const targetId = button.dataset.formTarget;
+      if (targetId) {
+        const target = document.getElementById(targetId);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          const firstInput = target.querySelector('input, textarea');
+          if (firstInput) {
+            firstInput.focus({ preventScroll: true });
+          }
+        }
+      }
     });
+  });
+}
+
+function initSupportForms() {
+  const forms = document.querySelectorAll('.request-form');
+
+  forms.forEach((form) => {
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+
+      const status = form.querySelector('.form-status');
+      const formKind = form.dataset.formKind || 'support';
+      const rawEndpoint = form.dataset.googleSheetUrl || window.ZENVY_GOOGLE_SHEETS?.[formKind] || '';
+      const configuredEndpoint = typeof rawEndpoint === 'string' && rawEndpoint.trim() && !rawEndpoint.toUpperCase().includes('PASTE_') ? rawEndpoint.trim() : '';
+      const formPayload = Object.fromEntries(new FormData(form).entries());
+      formPayload.formType = formKind;
+      formPayload.submittedAt = new Date().toISOString();
+
+      // Primary attempt: serverless endpoint on the same site (recommended for Vercel)
+      try {
+        const r = await fetch('/api/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(formPayload)
+        });
+
+        if (r.ok) {
+          const json = await r.json().catch(() => ({}));
+          if (status) status.textContent = json && json.success ? 'Request submitted successfully.' : 'Request submitted (no confirmation).';
+          form.reset();
+          return;
+        }
+      } catch (err) {
+        // continue to fallback options
+        console.warn('Primary submit failed:', err);
+      }
+
+      // Fallback 1: direct Apps Script / third-party endpoint if configured
+      if (configuredEndpoint) {
+        try {
+          await fetch(configuredEndpoint, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(formPayload)
+          });
+          if (status) status.textContent = 'Request sent successfully to configured endpoint.';
+          form.reset();
+          return;
+        } catch (error) {
+          console.warn('Configured endpoint failed', error);
+        }
+      }
+
+      // Fallback 2: localStorage (safe fallback when no backend available)
+      try {
+        const savedEntries = JSON.parse(localStorage.getItem('zenvySupportForms') || '[]');
+        savedEntries.push(formPayload);
+        localStorage.setItem('zenvySupportForms', JSON.stringify(savedEntries));
+        if (status) status.textContent = 'Request saved locally. Configure an endpoint to forward these later.';
+        form.reset();
+        return;
+      } catch (error) {
+        console.warn('Could not save form data locally.', error);
+        if (status) status.textContent = 'Submission failed. Please try again later.';
+      }
+    });
+  });
+}
+
+function initLegalModals() {
+  const modal = document.getElementById('legalModal');
+  if (!modal) return;
+
+  const title = document.getElementById('legalModalTitle');
+  const body = document.getElementById('legalModalBody');
+  const closeButton = modal.querySelector('.modal-close');
+  const backdrop = modal.querySelector('.modal-backdrop');
+
+  const openModal = (type) => {
+    const content = legalContent[type];
+    if (!content || !title || !body) return;
+
+    title.textContent = content.title;
+    body.innerHTML = content.body;
+    modal.classList.add('is-visible');
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  };
+
+  const closeModal = () => {
+    modal.classList.remove('is-visible');
+    modal.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  };
+
+  document.querySelectorAll('.legal-trigger').forEach((button) => {
+    button.addEventListener('click', () => openModal(button.dataset.legalType || 'privacy'));
+  });
+
+  closeButton.addEventListener('click', closeModal);
+  backdrop.addEventListener('click', closeModal);
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && modal.classList.contains('is-visible')) {
+      closeModal();
+    }
   });
 }
 
@@ -315,4 +509,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initFaq();
   initTopicSelector();
   initSupportButtons();
+  initSupportForms();
+  initLegalModals();
 });

@@ -1,0 +1,1056 @@
+Zenvy Terms & Conditions 
+Welcome to Zenvy. We believe healthcare should feel personal, simple, and accessible to 
+everyone. These Terms & Conditions (“Terms”) and our Privacy Policy (together, the 
+“Agreement”) form a binding contract between you (“You,” “User”) and Stratosys Tech 
+Private Limited (“Zenvy,” “we,” “us,” or “our”). They govern your use of our digital 
+healthcare Platform at www.zenvy.co.in and the Zenvy mobile app. 
+By accessing or using the Platform—whether browsing content, registering an account, or 
+engaging services—you agree to this Agreement and to applicable Indian laws, including the 
+Indian Contract Act, 1872; the Information Technology Act, 2000; the SPI Rules; and the IG 
+Rules. If you don’t agree, please exit the Platform. 
+ 
+1. Who You Are & Why You’re Here 
+• Practitioners Healthcare professionals or institutions listing services on Zenvy. • Patients 
+& Caregivers Individuals using Zenvy to find, book, or manage healthcare. 
+• Visitors Anyone browsing without registering. 
+ 
+2. Using Zenvy 
+ You must be at least 18 years old and legally able to contract. 
+ Provide accurate information when you register and keep your login credentials 
+confidential. 
+ We may suspend or terminate your access for fraud, misuse, or breach of these Terms. 
+ 
+3. For Patients & Caregivers 
+3.1 Your Zenvy Account & Privacy 
+ We collect only the personal and sensitive data necessary to run and improve Zenvy. 
+ You control your data—see our Privacy Policy for details on what we collect, why, 
+and how long we keep it. 
+ You’re responsible for all activity under your login. Report any unauthorized access 
+immediately. 
+ We may suspend or delete your account if you provide false or misleading 
+information. 
+3.2 Your Zenvy Matchmaker 
+
+ Our Search Match Model orders Practitioner profiles by factors like location, past 
+bookings, profile completeness, and feedback. 
+ This is not an endorsement or “top doctor” badge—just algorithmic matching. 
+ We tweak the Model regularly; positions can shift without notice. 
+ Zenvy disclaims all liability for ranking changes. 
+3.3 Information Accuracy & Our Disclaimers 
+ We gather and display Practitioner details (specialization, fees, availability) but do not 
+guarantee completeness or timeliness—please verify critical info directly. 
+ All Platform content is provided “as is” and “as available.” We disclaim all warranties 
+(express or implied), including merchantability or fitness for a particular purpose. 
+3.4 Booking Appointments & Call Support 
+ You can schedule appointments via Zenvy. Confirmation, cancellations, and no-
+shows follow our Booking & No-Show Policy. 
+ Optional call support—strictly for administrative purposes—may record calls with 
+your consent for quality. 
+ Zenvy is not liable for Practitioner cancellations, no-shows, or scheduling changes. 
+3.5 No Doctor-Patient Relationship & Emergencies 
+ Content on Zenvy is informational only. It does not create a doctor-patient 
+relationship with Zenvy or its personnel. 
+ We do not offer clinical advice or emergency services. In emergencies, please dial 
+local emergency numbers immediately. 
+3.6 Zenvy Content Hub 
+ Practitioners may share original wellness content (articles, videos, infographics). 
+ You may view and, where allowed, comment. All uploads must respect third-party IP 
+rights. 
+ Zenvy may remove content that violates law or these Terms. 
+ By posting, you grant Zenvy a worldwide, perpetual, royalty-free license to use your 
+content. 
+3.7 Shared Stories & Copyright 
+ Zenvy owns all Platform materials (text, graphics, code). You’re granted a limited, 
+non-exclusive license to access them for personal, non-commercial purposes. 
+ Copying, distributing, or extracting any part of the Platform without permission is 
+prohibited. 
+3.8 Patient Reviews 
+ Reviews reflect individual opinions. Zenvy is merely an intermediary under the IT 
+Act, disclaims liability for review content, and may moderate unlawful or 
+inappropriate reviews. 
+
+ By posting, you grant Zenvy a perpetual, royalty-free license to display your review. 
+3.9 Managing Your Health Records 
+ We enable storage of user-created and practitioner-generated health records. 
+ Records are “as is”; accuracy is the Practitioner’s responsibility. 
+ You control your data but should back up critical documents independently. 
+ We use industry-standard security but cannot guarantee against credential 
+compromise. 
+ 
+4. For Practitioners 
+4.1 Your Profile, Listings & Control 
+ You must verify and keep your profile details accurate. 
+ Zenvy may edit, remove, or relocate your profile at its discretion. 
+ We’re not liable for Practitioner rankings or publications outside Zenvy. 
+4.2 Editing & Content Rights 
+ Submit profile updates via our dashboard. We may review, approve, or adjust 
+changes. 
+ All uploaded content must comply with IP and ethical standards. 
+ By uploading, you warrant you own or have licensed the content and it doesn’t 
+infringe third-party rights. 
+4.3 Review Display & Responses 
+ Patient reviews are intermediary content. We may remove unlawful or defamatory 
+reviews. 
+ You may post public responses; we reserve the right to moderate replies. 
+4.4 Independent Services 
+ Each Zenvy feature (booking, records, reviews) has its own rules. Obligations and 
+liabilities do not carry over between features unless explicitly stated. 
+4.5 Booking Feedback & Responsibilities 
+ Appointment workflows follow Patient Clause 3.4. 
+ Zenvy is not liable for user feedback about your services. 
+ We may publish, mask, or remove feedback per these Terms and applicable law. 
+4.6 Your Professional Promise 
+
+ You warrant valid registration, licensing, and compliance with Indian medical laws 
+and ethics. 
+ You’ll maintain professional standards and legal obligations for every service. 
+4.7 Featuring You in Our Story 
+ With your approval, Zenvy may feature you in case studies, marketing materials, or 
+testimonials. 
+ You can review and request reasonable modifications before publication. 
+ 
+5. Keeping Content Safe & Fair 
+ You may not post content that is illegal, defamatory, infringing, harmful to minors, or 
+a threat to public order. 
+ Automated tools, hacking attempts, or reverse engineering are prohibited. 
+ Zenvy may remove non-compliant content, suspend offending accounts, and 
+cooperate with authorities. 
+ You’re responsible for your uploads; Zenvy disclaims liability for IP infringements. 
+ 
+6. When We Hit Pause (Termination) 
+6.1 Suspension & Termination 
+We may suspend or terminate your access, with or without notice, if you: 
+ Breach any part of these Terms or our Privacy Policy 
+ Provide false information or engage in fraud 
+ Pose legal, security, or reputational risks to Zenvy or others 
+6.2 After Termination 
+ You lose access to all data, messages, and materials on the Platform. 
+ Practitioners must keep independent backups of any records needed for compliance. 
+ 
+7. Our Liability Cap 
+To the maximum extent allowed by law: 
+ Zenvy and its affiliates aren’t liable for indirect, incidental, consequential, or 
+exemplary damages arising from the Platform or Services. 
+
+ Our total liability is capped at the fees you paid in the 12 months before a claim: • 
+Practitioners: subscription fees (₹1,180 per month) • Patients: platform fees (₹10 per 
+booking) 
+ This clause survives account termination. 
+ 
+8. How Long We Keep Your Info (Retention & Removal) 
+ We retain your data as needed to operate, comply with law, and improve services. 
+ Server logs and audit trails are kept for security and administrative purposes. 
+ On account deletion, we remove your personal data from active systems within 30 
+days, except where law requires otherwise. Anonymized or aggregated data may be 
+retained. 
+ 
+9. Laws & Disputes 
+9.1 Governing Law 
+These Terms are governed by the laws of India. 
+9.2 Arbitration 
+ All disputes shall be finally settled by arbitration under the Arbitration and 
+Conciliation Act, 1996. 
+ A sole arbitrator appointed by Zenvy will conduct proceedings in Bengaluru, India, in 
+English. 
+ The award is final and binding. 
+9.3 Courts’ Jurisdiction 
+Subject to arbitration, the courts in Bengaluru, India, have exclusive jurisdiction over 
+unresolved disputes. 
+ 
+10. Reaching Us & Interim Grievance 
+ General Support: contact@zenvy.co.in or https://zenvy.co.in/contact 
+ Interim Grievance: Until we appoint a Grievance Officer, direct compliance 
+concerns to support@zenvy.co.in. We’ll acknowledge within 48 hours and resolve per 
+regulatory timelines. 
+ 
+
+11. Effect of Invalid Terms (Severability) 
+If any part of these Terms is held unenforceable, that part will be severed, and the remainder 
+stays in effect. We’ll replace the invalid term with one that best reflects our original intent. 
+ 
+12. No Implied Waiver 
+Any waiver of rights under these Terms must be in writing and signed by Zenvy. A one-time 
+waiver does not apply to future breaches. 
+ 
+13. No Affiliation 
+Zenvy is an independent platform and is not affiliated with, endorsed by, or associated with 
+any other healthcare platform. 
+ 
+14. Terms Updates & Notifications 
+ Zenvy reserves the right to update these Terms at any time. 
+ Users will be notified of changes via app notifications or email. 
+ Continued use of the Platform after updates constitutes acceptance of the revised 
+Terms. 
+ 
+15. Third-Party Services 
+ Zenvy may integrate with third-party services (labs, pharmacies, payment gateways). 
+ We disclaim liability for third-party actions or data sharing beyond agreed boundaries. 
+ 
+Thank you for choosing Zenvy. We’re dedicated to making healthcare easier, more 
+transparent, and truly yours. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Subscriber Terms and Conditions 
+For Healthcare Providers, Clinics, and Practitioners Using Zenvy Doc 
+Stratosys Tech Private Limited (“Zenvy”, “we”, or “our”, including our affiliates) is the 
+developer, publisher, and maintainer of the website www.zenvy.co.in and all associated 
+digital solutions. This includes the practice and clinic management platform known as 
+“Zenvy Doc”, which is accessible via web browsers and native mobile applications 
+(collectively referred to herein as the “Services”). Use of our Services requires a subscription 
+fee, and your access to and use of the Services are subject to the terms and conditions set 
+forth below. 
+1. Your Agreement with Zenvy 
+1.1 Acceptance; Modifications to Terms 
+ By accessing and using Zenvy Doc, you confirm that you have read, understood, and 
+agree to be bound by these Subscriber Terms and Conditions (the “Agreement”). 
+ We reserve the unilateral right to modify, update, or amend these Terms at any time 
+without prior notice. Your continued use of the Services following any such revision 
+constitutes your acceptance of the updated Agreement. 
+1.2 Binding Contract; Supplementary Policies 
+ This Agreement, together with any additional terms, disclaimers, privacy policies, or 
+service-specific guidelines published on our website or within our Services, forms a 
+legally binding contract between you and Zenvy. 
+ In addition, by clicking “I Agree” or otherwise using the Services, you agree to any 
+and all terms referenced herein. 
+1.3 Discretion Over Service Access 
+ Your ability to access and use the Subscription Services is solely at the discretion of 
+Zenvy, and we reserve the right to suspend or restrict your access without liability at 
+any time. 
+2. Who is Zenvy? 
+2.1 Corporate Identity 
+ Zenvy Technologies Private Limited is the author, publisher, and owner of Zenvy 
+Doc, including all its versions, editions, add-ons, and ancillary services. 
+2.2 Purpose and Functionality 
+ The Services are designed for use by clinics and healthcare establishments to 
+streamline practice management. These tools facilitate appointment scheduling, 
+patient record management, billing, prescription generation, inventory control, 
+reporting, and other operational tasks. 
+
+2.3 Intended Users 
+ Zenvy Doc is intended for use by: 
+o Healthcare providers (“Practitioners”), including their designated associates 
+who manage clinical operations. 
+o Clinic administrators and staff who handle day-to-day management such as 
+scheduling, document processing, and billing. 
+ Collectively, every individual or entity that accesses the Services is referred to herein 
+as a “User.” 
+3. Terms of Use 
+3.1 Acceptance of Terms 
+ By using the Subscription Services, you confirm that you have read, understood, and 
+agreed to these Terms. 
+ If you disagree with any part of these Terms, you must immediately discontinue use 
+of the Services. 
+ Your ongoing use of the Services constitutes your unequivocal acceptance of this 
+Agreement. 
+3.2 Eligibility 
+ You must be 18 years of age or older to register for and use Zenvy Doc. 
+ By registering or using our Services, you represent and warrant that you meet all 
+eligibility requirements and have the full legal capacity to enter into this Agreement. 
+3.3 Compliance with Indian Law 
+ This Agreement is subject to and governed by Indian laws, including but not limited 
+to: 
+o The Indian Contract Act, 1872; 
+o The Information Technology Act, 2000; 
+o The Information Technology (Reasonable Security Practices and Procedures 
+and Sensitive Personal Information) Rules, 2011; and 
+o The Information Technology (Intermediaries Guidelines) Rules, 2011. 
+ In any dispute arising out of or related to these Terms, the relevant Indian laws shall 
+be determinative. 
+3.4 Mandatory Acceptance 
+ Use of the Subscription Services is conditioned on your express acceptance of every 
+provision in this Agreement. If you do not agree with any part, you must cease using 
+the Services immediately. 
+3.5 Authorized Use of Content 
+ You are granted permission to access and view Zenvy Doc content solely for purposes 
+related to clinical operations and communications. 
+
+ All content (including text, graphics, images, logos, icons, software code, design, and 
+data) is the exclusive property of Zenvy and is protected under applicable copyright, 
+trademark, and intellectual property laws. 
+ You may not modify, reproduce, distribute, or use any of the content for any 
+commercial or personal gain without prior written consent from Zenvy. 
+3.6 Login Credentials; Security 
+ Each User is responsible for maintaining the confidentiality of their login information. 
+ Sharing, duplicating, or allowing others to use your login credentials is strictly 
+prohibited. Any activity conducted under your account is your sole responsibility. 
+3.7 Authorized Users & Responsibility 
+ If you access the Subscription Services on behalf of a subscribing Clinic – as an 
+employee, consultant, intern, or associate – this Agreement forms a three-way 
+contract among you, your Clinic, and Zenvy. Both your Clinic and Zenvy reserve the 
+right to take legal action if you violate any term herein. 
+3.8 Non-Transferability of Access 
+ Your rights to use the Subscription Services are personal and non-transferable. You 
+must not transfer, share, lease, or sublicense your access to any third party. 
+3.9 Applicability on Multiple Platforms 
+ These Terms apply regardless of whether you access Zenvy Doc via the website 
+(www.zenvy.com) or through native mobile applications (for iOS, Android, 
+Windows, etc.). Additional mobile-specific terms may also apply. 
+3.10 Accuracy of Registration Information 
+ All data provided during registration must be accurate, correct, complete, and current. 
+ You may be required to supply supporting documents (for example, to verify a 
+telephone number registered in your name). 
+3.11 Lawful Use of Subscription Services 
+ You agree not to use the Subscription Services for any unauthorized or unlawful 
+purposes, including impersonating any person or entity, forging communications, or 
+violating any applicable law. 
+3.12 Compliance with Laws & Regulations 
+ In using the Subscription Services, you agree to abide by all relevant laws, 
+regulations, export requirements, and guidelines in your jurisdiction and 
+internationally. 
+3.13 Access Restrictions 
+
+ You must only access the Subscription Services through the official channels 
+provided by Zenvy. Any other method is strictly prohibited unless expressly 
+authorized by a separate agreement with Zenvy. 
+3.14 Interference Prohibition 
+ You agree not to interfere with, disrupt, or compromise the integrity, performance, or 
+security of the Subscription Services or the networks to which they connect. 
+3.15 Unauthorized Reproduction or Resale 
+ You are prohibited from reproducing, duplicating, copying, transferring, licensing, 
+renting, selling, trading, or otherwise reselling any part of the Software or the 
+Subscription Services. 
+3.16 Responsibility for Breach 
+ You acknowledge that any breach of these Terms is solely your responsibility, and 
+you agree to bear full legal and financial liability for any damages or losses incurred 
+as a result. 
+3.17 Indemnification 
+ You agree to indemnify, defend, and hold harmless Zenvy, its affiliates, and their 
+officers, directors, employees, and agents from any claims, losses, liabilities, or 
+expenses (including reasonable attorney fees) that arise from your violation of these 
+Terms or infringement of any third-party rights. 
+3.18 Disclaimer of Warranties 
+ Zenvy Doc and the Subscription Services are provided on an “as-is” and “as 
+available” basis without any warranties, express or implied. 
+ In particular, we disclaim any implied warranties of merchantability, fitness for a 
+particular purpose, or non-infringement. 
+3.19 No Unsolicited Communications 
+ You agree that you will not use the Subscription Services to send unsolicited 
+messages (spam) or communications that violate any telemarketing or spam 
+regulations. 
+3.20 Government Regulation Compliance 
+ Zenvy reserves the right to alter or remove parts of the Subscription Services if 
+required by changes in government policy, regulations, or local laws. 
+3.21 Confidentiality of Login Credentials 
+
+ You must keep all passwords and login details confidential, and you agree to 
+immediately notify Zenvy of any unauthorized access or suspected breach of your 
+account security. 
+3.22 Limited Rights to the Services 
+ Your subscription strictly grants you the right to use the specific Subscription 
+Services for which you have registered. It does not automatically grant access to other 
+platforms, features, or benefits beyond those covered by your chosen service plan. 
+4. Use of the Subscription Services 
+4.1 Software as a Service (SaaS) Model 
+ Provision and Licensing: Zenvy Doc is offered as a cloud-hosted, web-based, and 
+mobile-accessible Software as a Service (SaaS) platform. When you download or use 
+the software, you receive a non-transferable license to access and use the Subscription 
+Services. 
+ Ownership and Intellectual Property: All intellectual property rights in the 
+software and related materials remain with Zenvy (or its licensors). No title or 
+ownership is transferred to you. 
+ Operational Scope: While Zenvy Doc provides a robust suite of operational tools for 
+clinics, we are not involved in the direct management of patient care or clinical data. 
+ Compliance and Data Storage: You must use the software only in accordance with 
+this Agreement and all applicable laws. Information you provide may be stored, used, 
+or republished by Zenvy or its affiliates even after your subscription terminates. 
+4.2 Free Trial 
+ Trial Period Offer: Zenvy may, at its discretion, offer a free trial period for the 
+Subscription Services. 
+ Conditions of Use: During the trial, you are bound by these Terms and all applicable 
+legal requirements. 
+ Data and Customization Loss: Any data you enter or customizations you make 
+during the trial will be permanently erased once the trial period expires unless you 
+choose to upgrade to a paid plan. 
+ Warranty Disclaimer: No warranties or guarantees are made during the free trial 
+period. 
+4.3 Service Modifications & Customizations 
+ As-Is Provision: Zenvy Doc is provided “as-is”, and we reserve the right to change, 
+remove, or add features at any time without obligation. 
+ Customization Requests: While we may consider customization requests, these are 
+not included in the standard subscription fee and must be negotiated separately. 
+4.4 Restrictions on Access 
+ Competitor Limitation: Any entity that is in direct competition with Zenvy must 
+secure prior written consent before accessing the Services. 
+
+ Disallowed Uses: The Services must not be used for monitoring system performance, 
+benchmarking competitors, or any other activity aimed at gathering data for 
+competitive analysis. 
+4.5 Service Availability & Support 
+ Basic Support: Basic support for the Subscription Services is provided at no extra 
+charge; enhanced support options may be purchased separately. 
+ Working Hours: On business days, customer support is available from 9:00 AM to 
+6:00 PM. 
+ Response Times and Off-Hours: Outside these hours, response times may be 
+delayed; however, all queries will be answered within 24 hours. 
+ Uptime Commitment: We will use commercially reasonable efforts to ensure that 
+the platform is available 24/7 except during scheduled maintenance (with at least an 
+8-hour advanced notice, typically planned during off-peak periods such as Friday 
+evenings to Monday early morning) or events beyond our control (e.g., natural 
+disasters, government directives, or network failures). 
+4.6 No Guarantee of Uninterrupted Service 
+ Disclaimer of Continuous Operation: Despite best efforts, there may be disruptions 
+or delays in the operation of the Subscription Services due to factors beyond our 
+control (such as local network issues, ISP malfunctions, power outages, etc.). 
+ Liability Exclusion: Zenvy shall not be held liable for any interruptions, delays, or 
+losses arising from such events. 
+4.7 Service Unavailability and Subscription Extensions 
+ Remedy for Downtime: In the event that the Software becomes unavailable due to 
+defaults on Zenvy’s part or is rendered inoperable, we may extend your subscription 
+period by the number of days during which the Services were unavailable. 
+ Third-Party Responsibility: You acknowledge that interruptions caused by 
+intermediary services (such as internet connectivity issues or telephony disruptions) 
+are not the responsibility of Zenvy. 
+4.8 Service Limitations 
+ Usage Limits: Your chosen subscription plan specifies the limitations applicable to 
+your use of the Services. These may include, but are not limited to: 
+o Disk storage quotas 
+o Limits on API calls or SMS messages 
+o Maximum numbers of appointments, user accounts, or subscription validity 
+durations 
+ Real-Time Monitoring: The system is designed to provide real-time information so 
+that you can monitor your compliance with these limitations. 
+4.9 User’s Liability for Clinical Interactions 
+
+ Direct Responsibility: Any interactions with patients (or their representatives) that 
+occur through the platform are the sole responsibility of the clinic or practitioner 
+using the Services. 
+ Data Accuracy Disclaimer: Zenvy disclaims any responsibility for the accuracy, 
+completeness, or veracity of patient data or third-party information provided via the 
+platform. 
+ Emergency Use Limitation: The Services are not intended for handling emergency 
+healthcare situations such as urgent appointments or critical procedures. 
+4.10 Suspension of Access 
+ Right to Suspend: Zenvy reserves the right to suspend your access to the 
+Subscription Services at its sole discretion, particularly if there are complaints or 
+indications that you may be in breach of these Terms. 
+ Temporary Suspension: Such suspensions may be temporary while investigations 
+are conducted. 
+4.11 Use of Anonymized Information 
+ Data Usage for Improvement: Information gathered from your usage of the Services 
+may be aggregated and anonymized for purposes such as system improvement, 
+analytics, research, and development. 
+ Rectification Tools: You will have access to tools for correcting or updating any 
+personal data that is used in anonymized analytics. 
+4.12 Types of Information Utilized 
+ Data Categories: Zenvy reserves the right to collect and use various types of data 
+stored in the software, including: 
+o Clinic Information: Details and identifiers for the clinic or healthcare facility. 
+o Practitioner Information: Professional information about healthcare providers 
+using the platform. 
+o Patient Demographics: Anonymized data detailing patient age, gender, etc. 
+o Anonymized Health and History Data: Health-related information presented in 
+a non-identifiable format. 
+4.13 Automatic Listing of Provider Information 
+ Listing Process: Information provided by clinics regarding healthcare providers (or 
+doctors) is automatically displayed on the platform whenever End-Users search for 
+Providers or Clinics. 
+ Persistence of Listings: Such listings may continue to appear even if the clinic 
+updates its information, discontinues its subscription, or terminates its relationship 
+with Zenvy. 
+ Sensitive Data Exclusion: At no time will personally sensitive information be 
+displayed. 
+ Ranking and Modifications: No ranking algorithm is applied; listings are shown 
+alongside any other providers regardless of their contractual status with Zenvy. 
+Changes can be made using the online platform or by contacting support at 
+support@zenvy.co.in. 
+
+4.14 Appointment Request Process 
+ Online Appointment Booking: The Subscription Services facilitate online 
+appointment requests for all listed Providers. 
+ Notification Mechanisms: Zenvy will use telephone and email notifications to 
+inform clinics of appointment requests. 
+ Disclaimer on Delivery: However, technical or operational delays (such as delayed 
+email responses or telephonic issues) may cause some appointment requests not to 
+reach the intended recipient in a timely fashion. Zenvy shall not be liable for such 
+delays. 
+4.15 Appointment Confirmation and Cancellations 
+ Confirmation Efforts: While every effort is made to confirm appointment requests 
+promptly, Zenvy does not guarantee that every request will be confirmed. 
+ Cancellation or Unavailability: Zenvy is not responsible if a confirmed appointment 
+is later cancelled by an End-User, or if the Provider becomes unavailable at the time 
+of the appointment. 
+4.16 Additional Limitations and Specific Terms 
+ Service-Specific Conditions: Certain ancillary or specialized Subscription Services 
+may have additional terms, restrictions, or conditions (collectively “Specific Terms”). 
+ Contingent Acceptance: Your access to these services is dependent upon accepting 
+and complying with these Specific Terms. 
+4.17 Service Functionality and Upgrades 
+ Right to Modify Features: Zenvy reserves the right to introduce new features, 
+remove existing functionalities, or modify current capabilities at its discretion. 
+ Automatic Upgrades: Users will receive notifications when a major update is 
+released. Zenvy may automatically upgrade all users to the latest version of the 
+Services. 
+4.18 Zenvy Doc App Terms of Use 
+ Cloud and Mobile Accessibility: The Zenvy Doc App is cloud-hosted and available 
+on Android, iOS, and via the web. 
+ Employee and Agent Use: Clinics must ensure that all employees, agents, or 
+reception staff using the app adhere to these Terms. 
+ Core App Functions: The app facilitates appointment booking, sending of 
+appointment reminders, recording of clinical notes, generation of prescriptions, and 
+billing operations. 
+ Patient Stories and Recommendations: Testimonials or recommendations collected 
+through the app may be displayed on the Website. However, Zenvy is not responsible 
+for their content. 
+ Operational Changes: Zenvy may modify app functionalities (for example, the 
+instant booking feature) based on the volume of appointments or other criteria, with 
+prior notice provided. 
+
+ Usage Purpose and Security: The app is intended exclusively for managing patient 
+interactions. Misuse, impersonation, or unauthorized communications are prohibited. 
+Users agree to indemnify Zenvy for any breaches affecting security. 
+ Data Accuracy: It is the responsibility of healthcare providers to ensure that all 
+information provided or communicated through the app is correct. 
+ Alerts and Account Access: The app will deliver alerts regarding follow-up visits, 
+and users can access detailed appointment information through their online account. 
+5. Collection, Use, Storage, and Transfer of Personal Information 
+5.1 Definitions 
+ “Personal information” and “sensitive personal data” are defined under the applicable 
+legal standards (including the SPI Rules). Full definitions are available in our Privacy 
+Policy at www.zenvy.com/privacy. 
+5.2 Privacy Policy Overview 
+ Our Privacy Policy details: 
+o The categories of information we collect. 
+o The purposes for which the information is collected. 
+o How we store, use, and disclose your information. 
+5.3 User Responsibilities and Awareness 
+ Users are strongly encouraged to read our Privacy Policy to understand what 
+information is collected, how it is used, and the rights available to you regarding your 
+data. 
+5.4 Consent for Data Storage 
+ Clinics and Users must obtain explicit consent from End-Users (patients) before their 
+personal or sensitive information is uploaded or stored in Zenvy Doc. 
+5.5 Authenticity and Accuracy of Data 
+ Zenvy does not guarantee the accuracy or authenticity of the data provided by Users 
+or third parties. You are responsible for ensuring that the data you provide is correct. 
+5.6 Data Retention and Submission to Authorities 
+ Information provided during registration, as well as your browsing or usage history, 
+may be retained by Zenvy. 
+ If required by law, such data may also be submitted to relevant authorities in 
+accordance with our Privacy Policy. 
+5.7 Security of Login Credentials 
+ It is your responsibility to maintain the confidentiality of your login details. 
+ Any unauthorized use of your account must be reported to Zenvy immediately. 
+
+5.8 Obligation to Provide Accurate Data 
+ Should any data be found to be false, outdated, or incomplete, Zenvy reserves the 
+right to suspend or terminate your access to the Services. 
+5.9 Use of Data for Support 
+ Anonymized information gathered from the Services may be used for debugging, 
+customer support, and improving the system functionality. 
+5.10 Retention Beyond Subscription 
+ Data you provide may be retained even after your subscription ends, in accordance 
+with the guidelines outlined in our Privacy Policy. 
+6. Covenants 
+6.1 Prohibited Content 
+ You must not post or share content that: 
+o Does not belong to you or for which you lack proper rights. 
+o Is harmful, harassing, defamatory, obscene, pornographic, or promotes 
+paedophilia. 
+o Infringes on any intellectual property rights. 
+o Contains viruses, malware, or any disruptive code. 
+o Threatens national security or public order. 
+6.2 Prohibited Activities 
+ You are strictly prohibited from: 
+o Trying to breach the security or integrity of the Subscription Services. 
+o Transmitting false, incomplete, or misleading information. 
+o Using automated methods (spiders, robots, etc.) to collect data or navigate the 
+Services. 
+o Circumventing any digital rights management or security protocols in place. 
+6.3 Content Removal Rights 
+ Zenvy reserves the right to remove any content that violates these Terms. 
+ Deleted content and its records may be kept for up to 90 days for legal or investigative 
+purposes. 
+6.4 Termination for Non-Compliance 
+ Persistent or severe violations of these Terms or any applicable laws may result in the 
+immediate termination of your account without prior notice. 
+6.5 Data Transfers 
+
+ Zenvy may share or transfer your data to our affiliates or third parties, provided they 
+adhere to data protection standards as outlined in our Privacy Policy. 
+6.6 Respect for Intellectual Property 
+ We respect the intellectual property rights of others, and Zenvy is not liable for any 
+claims arising from user-generated infringements. 
+7. Liability 
+7.1 User Consent and Data Disclosures 
+ Zenvy shall not be held liable for losses or damages arising from information 
+disclosed by you or with your consent. 
+7.2 Statutory Disclosure Obligations 
+ Zenvy will comply with statutory requests for information under applicable 
+regulations (such as the SPI Rules) and assumes no liability for such disclosures. 
+7.3 Warranty Disclaimer 
+ The Services are provided without any warranties. We do not guarantee that the 
+Services will always be uninterrupted, error-free, or meet a particular standard of 
+performance. 
+7.4 Responsibility for Patient Data 
+ Clinics and Healthcare Providers are solely responsible for the security, management, 
+and integrity of their patient data. Zenvy is not liable for issues arising from your data 
+management practices. 
+7.5 Third-Party Links and Services 
+ Zenvy is not responsible for third-party services or content accessible through the 
+platform. 
+7.6 Security and Technical Issues 
+ A failure on the part of third-party vendors, or technical malfunctions (including 
+malware or power outages), shall not render Zenvy liable for resultant damages. 
+7.7 User-Generated Content 
+ Content created or shared by users does not necessarily reflect the views of Zenvy, 
+and we assume no responsibility for such material. 
+7.8 Limitation of Liability 
+ In any legal claim, Zenvy’s total liability shall not exceed ₹1000. 
+
+7.9 Service Interruptions 
+ Zenvy is not liable for any losses or damages arising from service interruptions, 
+appointment cancellations, or rescheduling issues. 
+7.10 Provider Listings 
+ The determination of provider listings and their order are based on internal criteria 
+and user feedback. Zenvy is not liable for any negative impacts arising from such 
+automated processes. 
+7.11 Feedback and Communications 
+ While we may solicit and use feedback from Users, Zenvy is not responsible for any 
+issues that arise from communications with or responses by Users. 
+7.12 Third-Party Vendor Actions 
+ Zenvy is not responsible for any failures or errors incurred by third-party vendors that 
+support ancillary services such as payment processing. 
+8. Indemnity 
+ You agree to indemnify, defend, and hold harmless Zenvy, its affiliates, and their 
+respective officers, directors, employees, and agents from any and all claims, 
+liabilities, damages, costs, or expenses (including reasonable attorney fees) arising 
+from: 
+o Your use of Zenvy Doc; 
+o Any breach of these Terms; 
+o Any violation of any intellectual property or other rights by you or any party 
+using your account. 
+ In the event of any such claim, Zenvy will notify you promptly, and you agree to 
+cooperate with us in your defense, at your own expense. 
+9. Spamming 
+ Zenvy enforces a strict zero-tolerance policy toward spamming. 
+ You agree not to use the Services to send unsolicited bulk messages or 
+communications with commercial content. 
+ Definition: Spam is defined as an indiscriminate, unsolicited transmission of 
+messages. 
+ Penalties: Should you engage in spamming, you will be liable to pay a penalty of 
+₹3000 per unauthorized message, with the fee payable within 30 days of the 
+transmission. 
+10. Term, Termination, and Disputes 
+10.1 Duration of Agreement 
+
+ This Agreement remains in full force and effect for as long as you access and use 
+Zenvy Doc. 
+10.2 Termination by the User 
+ You may terminate your subscription at any time by providing a 30-day written notice 
+to support@zenvy.co.in. 
+ During this notice period, all outstanding dues must be settled. 
+ Zenvy will review any ongoing services or pending subscription fees before 
+processing your termination. 
+10.3 Termination by Zenvy 
+ Zenvy reserves the right to terminate, suspend, or restrict your access to the Services 
+if you breach any of the provisions of this Agreement, if we are unable to verify your 
+details, or if your actions expose us to legal liability. 
+10.4 Post-Termination Restrictions 
+ Once your account is suspended, terminated, or otherwise deactivated, you are not 
+permitted to re-register under the same or any other account unless explicitly 
+authorized. 
+ Upon termination, you will lose access to all stored data, messages, and files. It is 
+your responsibility to maintain backups of your information prior to termination. 
+ Zenvy retains the right to continue using or publicly displaying any data you made 
+available prior to termination. 
+10.5 Data Return Policy 
+ If termination is due to non-payment, you may request that a copy of your data be 
+made available for download (in CSV format or another agreed format) within 30 
+days of the termination effective date. 
+ After this period, Zenvy bears no obligation to preserve your data, and it may be 
+deleted unless prevented by law. 
+10.6 Legal Remedies and Immediate Account Deletion 
+ In the event of any breach, Zenvy may, at its discretion, delete your content and 
+terminate your account immediately, with or without notice. 
+10.7 Governing Law and Jurisdiction 
+ This Agreement is governed by the laws of India, and all disputes arising out of or 
+related to these Terms shall be subject to the exclusive jurisdiction of the courts in 
+Bengaluru, India. 
+10.8 Survival of Obligations 
+
+ Even after termination of the Agreement, certain provisions—such as those covering 
+indemnity, liability, intellectual property rights, and dispute resolution—will continue 
+to remain in effect. 
+10.9 Amendments 
+ Any amendments or updates to these Terms will replace previous versions. Your 
+continued use of the Services following any notification of changes shall be deemed 
+acceptance of the updated Terms. 
+11. Theft of Subscription Services 
+ If you suspect that your account has been accessed without authorization or that 
+fraudulent activity is taking place, you must immediately notify Zenvy by emailing 
+support@zenvy.co.in. 
+ In your notice, provide your account details and a detailed description of the 
+suspected theft or misuse. 
+ Failure to report such issues promptly may result in the termination of your 
+Subscription Services and may incur additional charges. 
+ You will be held responsible for all unauthorized activity on your account, and Zenvy 
+is under no obligation to extend your subscription period or waive fees due to 
+fraudulent use. 
+12. Misuse of Subscription Services 
+ Zenvy reserves the right to suspend, restrict, or terminate your access to the 
+Subscription Services if you engage in misuse. 
+ Misuse includes: 
+o Creating multiple accounts or false profiles. 
+o Violating intellectual property rights. 
+o Breaching any term of this Agreement or engaging in behavior deemed 
+contrary to the proper purpose of the Services. 
+ Users who are repeat offenders may have their accounts terminated permanently 
+without further notice. 
+13. Severability and Waiver 
+ If any provision of this Agreement is determined to be invalid or unenforceable by a 
+court of law, that provision shall be removed, but the remaining provisions will 
+continue in full force and effect. 
+ A failure by Zenvy to enforce any provision of these Terms shall not be construed as a 
+waiver of the future enforcement of that or any other provision. 
+14: Payment Processing & Wallet System 
+14.1 Doctor’s Wallet: 
+o All payments received for consultations, appointments, or other services are 
+initially credited to the doctor’s secure wallet within the Zenvy Doc system. 
+
+14.2 Payout Request & Processing: 
+o When a doctor initiates a payout request from their wallet, the requested funds 
+will be transferred to their verified bank account within 24 hours. 
+14.3 Bank Account Verification: 
+o Doctors must verify and periodically update their bank account details in the 
+Zenvy Doc dashboard. Any modifications to bank details will require 
+additional verification measures to prevent fraud. 
+14.4 Handling Technical Payment Failures: 
+o In the event a payment fails due to network issues, gateway errors, or technical 
+disruptions, the system will automatically attempt to reprocess the transaction. 
+o If the payment is not completed on the initial attempt, Zenvy will complete the 
+payment within 10 working days from the failure date. 
+14.5 Refunds: 
+o In cases of cancellations, duplicate transactions, or disputed payments, refunds 
+will be processed in accordance with the platform’s refund policy and within 
+the agreed timeframe. 
+14.6 Fraud Detection & Compliance: 
+o All transactions are continuously monitored for suspicious activity and are 
+processed in compliance with applicable security standards (e.g., PCI DSS). 
+15: Doctor No-Show & Failure to Cancel Policy 
+15.1 Failure to Cancel on Time (No-Show): 
+o If a doctor does not cancel a scheduled appointment at least 24 hours in 
+advance and a patient arrives to find the doctor unavailable, the incident is 
+recorded as a "no-show" for the doctor. 
+15.2 Disciplinary Procedure: 
+o First Occurrence: The doctor will receive a formal written warning. 
+o Second Occurrence: A second incident will result in a final warning notice, 
+emphasizing that any further incidents will trigger disciplinary action. 
+o Third Occurrence: If a third incident occurs, the doctor's account will 
+be temporarily suspended for 4 months, during which access to the 
+Subscription Services will be blocked. 
+15.3 Notification Process: 
+o In any cancellation situation arising from failure to cancel on time, affected 
+patients will be notified via standard channels (such as email, SMS, or phone) 
+
+and provided with instructions to reschedule or apply for a refund, as 
+applicable. 
+15.4 Responsibility for Clinic Non-Acceptance of Bookings: 
+o If a clinic fails to accept, process, or confirm a booking request within 24 
+hours from receipt, such inaction shall be considered a breach of the clinic’s 
+operational responsibilities. 
+o In these cases, the doctor is entitled to cancel the corresponding 
+appointment(s) after providing the affected patient(s) with a minimum of 24 
+hours' notice. 
+o Cancellations triggered by the clinic’s non-acceptance will not count toward 
+the doctor's "no-show" record. 
+o Repeated failures by the clinic may subject the clinic to further review and 
+remedial actions by Zenvy. 
+15.5 Reinstatement Conditions: 
+o Following a temporary suspension due to repeated no-show incidents, the 
+doctor’s account may be reinstated only after a performance review and a 
+commitment to strictly adhere to the established cancellation protocols. 
+16. Contact Information 
+16.1 Customer Support 
+ For any issues, questions, or complaints regarding Zenvy Doc, please contact our 
+customer support team at support@zenvy.com. 
+16.2 General Inquiries 
+ For general inquiries about our Services or this Agreement, you may reach Zenvy by 
+emailing support@zenvy.co.in or visiting our contact page 
+at www.zenvy.co.in/contact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Terms and Conditions for Online 
+Medical Teleconsultation Services 
+Provided by Stratosys Tech Private Limited (“STPL”) 
+STPL offers online teleconsultation services under two distinct brands: • Zenvy: the 
+mobile and web application used by patients and other End-Users to access our 
+teleconsultation services. • Zenvy Doc: the dedicated application used by medical 
+practitioners (doctors) to deliver teleconsultations and manage appointments. 
+By accessing either Zenvy or Zenvy Doc, you are agreeing to be legally bound by 
+these Terms and our Privacy Policy (available at [insert Privacy Policy URL]). These 
+documents constitute the entire agreement (“Agreement”) between you and STPL 
+regarding your use of our Services. In cases where you are a Practitioner, additional 
+provider-specific terms may also apply. 
+1. Scope and Applicability 
+1.1 For End-Users (Patients) 
+1.1.1 Who This Applies To:  These Terms apply to any individual, their 
+representatives, or affiliated parties (“User” or “End-User”) who access and use the 
+Zenvy application to search for Practitioners and schedule online teleconsultations. 
+1.1.2 Service Description:  Zenvy facilitates the delivery of teleconsultation 
+services via licensed medical Practitioners. The nature and scope of these services 
+may be updated by STPL at our sole discretion; the current agreement in force at the 
+time of access will apply. 
+1.2 For Practitioners (Doctors) 
+1.2.1 Who This Applies To:  The Zenvy Doc application is exclusively used by 
+licensed medical Practitioners (“Practitioner”, “Doctor”) who provide teleconsultation 
+services through our platform. 
+1.2.2 Provider Agreement:  In addition to these Terms, Practitioners are subject 
+to a separate provider agreement that governs the delivery of teleconsultations, 
+appointment scheduling, data handling, and other operational matters on Zenvy Doc. 
+Please ensure you read that agreement carefully before using Zenvy Doc. 
+2. Acceptance and Modifications 
+2.1 Acceptance of Terms:  Before accessing either Zenvy or Zenvy Doc, you 
+must read and agree to these Terms along with our Privacy Policy. Your continued 
+use of the respective application signifies your acceptance of any modifications or 
+updates. 
+
+2.2 Right to Modify:  STPL reserves the right to amend or discontinue any portion 
+of the Services or these Terms at any time without prior notice. It is the user’s 
+responsibility to review the updated Terms periodically. Continued usage implies 
+acceptance of the changes. 
+3. Governing Law and Legal Compliance 
+3.1 Applicable Laws:  This Agreement is governed by Indian law, including, but 
+not limited to:   • The Indian Contract Act, 1872   • The Information Technology 
+Act, 2000   • The Telemedicine Guidelines issued under the auspices of the 
+Indian Medical Council (Professional Conduct, Etiquette, and Ethics Regulations, 
+2002) 
+3.2 Dispute Resolution:  Any disputes arising from or related to these Terms or 
+your use of the Services will be resolved in accordance with the above laws. 
+4. User Responsibilities 
+4.1 For End-Users on Zenvy 
+4.1.1 Accurate Information:  You agree to provide accurate personal and 
+healthcare-related information when registering or scheduling teleconsultations. 
+4.1.2 Appropriate Use:  Use of the Zenvy app is for accessing teleconsultation 
+services only. Misusing the application or its services (e.g., by providing false 
+information) may result in suspension of your account. 
+4.1.3 Consent to Data Handling:  By using the app, you explicitly consent to the 
+collection, storage, and use of your personal data as detailed in our Privacy Policy. 
+4.2 For Practitioners on Zenvy Doc 
+4.2.1 Professional Responsibility:  You agree to provide teleconsultation 
+services in accordance with applicable medical guidelines and ethical standards. 
+4.2.2 Account Security:  It is your responsibility to maintain the confidentiality of 
+your login credentials for Zenvy Doc. 
+4.2.3 Adherence to Provider Guidelines:  Practitioners must follow the 
+operational protocols and cancellation policies detailed in your provider agreement to 
+ensure minimal disruption to patient care. 
+5. Service Evolution 
+5.1 Dynamic Services:  STPL continually enhances our Services. Whether you 
+are an End-User accessing Zenvy or a Practitioner using Zenvy Doc, you 
+acknowledge that functionalities, user interfaces, and service offerings may change 
+over time. 
+
+5.2 Notification of Material Changes:  Any significant changes to the Services 
+will be communicated through appropriate channels. Your continued use of the 
+Services after such changes will be deemed acceptance of the revised terms. 
+6. General Disclaimers and Limitations 
+6.1 As-Is Basis:  The Services are provided “as is” and “as available” without 
+warranties of any kind, either express or implied. 
+6.2 Limitation of Liability:  STPL’s total liability for any damages arising from the 
+use of the Services shall be limited as provided under Indian law. 
+6.3 Disclaimer for Third-Party Content:  Any content or resources accessible 
+through the Platforms that are provided by third parties are not under STPL’s control, 
+and we shall not be liable for inaccuracies or omissions in these materials. 
+7. Online Medical Consultation Feature – Terms for Users 
+7.1 Definition 
+7.1.1 Online Medical Consultation Feature:  This feature is offered by Stratosys Tech 
+Private Limited (“STPL”) to enable Users—namely patients and their representatives—to 
+receive remote medical consultations via our Platform (accessible through the Website and 
+mobile applications). Through this feature, Users can communicate with our registered 
+medical practitioners. STPL may automatically assign a Practitioner using its proprietary 
+algorithm, which considers factors such as the time and date of the consultation request, the 
+nature of the health concern, and other relevant criteria. Alternatively, Users may search for 
+and select a Practitioner manually. The entire set of functionalities described in this section is 
+collectively referred to as the “Online Medical Consultation Feature.” 
+7.2 Terms for Users 
+7.2.1 Assignment of Practitioners:  STPL designates Practitioners based on a 
+systematic algorithm that identifies the most relevant doctor according to the 
+consultation details provided. In certain cases, Users have the flexibility to select a 
+Practitioner from available search options on the Website or mobile app. 
+7.2.2 Prescription and Advice Limitations:  Any prescription or medical advice 
+rendered during a Consult is provided based on the information shared during the 
+online consultation. Users acknowledge that such recommendations may differ from 
+those determined after an in-person examination. Consequently, Users should not 
+consider the online prescription as definitive and must consult their regular medical 
+practitioner before altering any ongoing treatments or medication regimens. 
+7.2.3 Nature of the Consultation:  Users expressly understand that during an 
+online consultation, Practitioners do not conduct a physical examination. As a result, 
+certain vital clinical details that are typically ascertained through direct physical 
+assessment may be unavailable. Users accept and assume full responsibility for any 
+
+risks arising from this limitation.   - Note: The Consult service is not intended to 
+replace emergency medical care or situations that require a physical examination. 
+7.2.4 Applicability of Medical Advice:  The medical advice provided through 
+Consult is based on general clinical practices prevalent in India and is provided to 
+the best of the Practitioner’s knowledge. Users should note that such guidance is not 
+tailored for conditions specific to regions outside India, regardless of the location 
+from which the consultation is accessed. 
+7.2.5 Access to Health Records and Prescriptions:  During and after a 
+consultation, the Practitioner may upload prescriptions and/or other health records to 
+the User’s account on the Platform for future reference. Users outside India 
+acknowledge that issuing a prescription is at the sole discretion of the Practitioner 
+and may not be provided in every instance. 
+7.2.6 Quality Audit and Data Handling:  The User agrees that STPL may 
+periodically audit the consultation records—including communications, text, images, 
+audio, or video materials exchanged between the User and the Practitioner—for 
+purposes such as quality control, treatment improvement, and enhancement of User 
+experience. Such data, which may include sensitive personal information, will be 
+handled in accordance with our Privacy Policy. 
+7.2.7 Communication Guidelines:  Users shall confine their queries and 
+communications with Practitioners to matters directly relevant to a specific disease, 
+medicine, or medical condition.   - All interactions, including the sharing of images 
+or videos (only if absolutely necessary for diagnostic purposes), must occur through 
+the Platform.   - Users are advised not to use external communication channels to 
+interact with Practitioners.   - Users must provide any additional documents or 
+reports requested by the Practitioner in a timely manner. 
+7.2.8 Single-User Consultation Limitation:  Each paid consultation is intended 
+for a single User only. In instances where multiple consultations are attempted under 
+one paid session, the Practitioner is not obligated to address all such requests within 
+that transaction. 
+7.2.9 Restrictions on Drug Prescriptions:  Users are prohibited from attempting 
+to influence Practitioners to prescribe medications that do not comply with the 
+Telemedicine Guidelines. This includes, but is not limited to, medications related to 
+Medical Termination of Pregnancy (MTP), as well as drugs classified as sedatives, 
+hypnotics, opioids, Schedule X substances, or fourth-generation antibiotics.   - If 
+treatment necessitates restricted medications, Users must seek a direct, in-person 
+consultation with a Practitioner to verify the need and to obtain the appropriate 
+prescription. 
+7.2.10 Accuracy of Information and Legal Use:  Users warrant that all 
+information provided during the Consult is accurate and complete. The Platform must 
+not be used to engage in any activities deemed illegal.   - The transaction 
+between the User and the Practitioner via the Platform is governed by Indian law, 
+and any disputes will be subject to the jurisdiction stipulated in our overall Terms and 
+Conditions. 
+
+7.2.11 Payment and Support for Consultations:  Payments for each consultation 
+must be made through the designated online payment gateway provided on the 
+Platform.   - If there are any issues regarding the payment not being credited 
+correctly, Users are advised to reach out to our support team via the online chat 
+support feature available at support@zenvy.co.in. 
+7.2.12 Indemnification:  The User agrees to indemnify and hold STPL, along with 
+its affiliates, subsidiaries, officers, directors, employees, and agents, harmless 
+against any and all claims, losses, damages, or expenses (including legal fees) that 
+arise from:   - The User’s use of the Consult service;   - Any breach of the 
+terms laid out herein;   - Any violation of applicable laws, rules, or regulations. 
+8. Refund Policy for Users 
+These refund terms apply to Users of the Consult service on our patient-facing 
+application, Zenvy. By using our teleconsultation services, you agree to the following 
+refund policy: 
+8.1 Refund for Practitioner Misconduct:  If an investigation confirms that a 
+Practitioner has acted in contravention of any applicable laws or regulations, STPL 
+will issue a full refund to the affected User, subject to the results of a thorough 
+review. 
+8.2 Abusive Behaviour by Users:  If a consultation is cancelled due to the User’s 
+use of abusive language or other unruly behaviour, no refund shall be granted, and 
+STPL reserves the right to take legal action depending on the severity of the 
+incident. 
+8.3 Inappropriate Personal Queries:  Users must limit their questions to those 
+directly related to specific diseases, medicines, or medical conditions. Should a User 
+raise unrelated or overly personal queries, STPL reserves the right to terminate the 
+consultation immediately without offering any refund. 
+8.4 Delayed or Inadequate Practitioner Response:  - If a Practitioner does not 
+respond within ten (10) minutes from the scheduled commencement of a paid 
+consultation, or  - If the Practitioner remains unresponsive for more than fifteen (15) 
+minutes during an active consultation,   the User may request a refund. In such 
+cases, STPL will review the consultation details and, upon confirmation, issue a full 
+refund. 
+8.5 Consultation Summary Prescription:  If a Practitioner fails to provide a 
+consultation summary or prescription at the end of the consultation, the User is 
+entitled to request a refund. However, if a summary prescription is provided, no 
+refund will be issued. 
+8.6 Premature Termination of Consultation:  If a Practitioner abruptly or 
+unreasonably shortens a consultation, the User may request a refund. STPL will 
+conduct an investigation and, if the consultation is found to be inadequate, provide a 
+full refund. 
+
+8.7 Repetitive Cancellation Requests:  STPL reserves the right to permanently 
+block Users from accessing future services if multiple cancellation or refund requests 
+are received for reasons that do not conform with this policy. 
+8.8 Time Limit for Filing Refund Requests:  Users have a window of three (3) 
+days from the date of the consultation to flag any issues and request a refund. 
+Refund requests submitted after this period will not be considered. 
+8.9 Refund Request Procedure:  Users may request a refund by contacting our 
+online chat support at: support@zenvy.co.in. 
+8.10 Refund Processing and Timeline:  Once a refund request is approved at 
+STPL’s sole discretion after a detailed review, the refund will be processed and 
+credited back to the User within seven (7) working days from the date of approval. 
+8.11 Review of Consultation Concerns:  Should a User raise any concerns 
+regarding the inappropriateness or inadequacy of a consultation, the matter will be 
+subject to a comprehensive review under STPL’s internal policies. Any decision on 
+refunds or other remedial measures will be based on this detailed analysis. 
+8.12 Final Discretion:  All decisions regarding refunds and settlements under this 
+policy are made at the sole and absolute discretion of STPL. Such decisions are final 
+and binding. 
+9. Express Disclaimers 
+9.1 General Disclaimer:  - The Consult service is intended solely for general 
+informational purposes and to facilitate online medical consultations. It is not meant 
+for use in emergencies or serious medical conditions requiring immediate in-person 
+assessment.  - If a Practitioner determines that a physical examination is 
+necessary and advises an in-person consultation, it is the sole responsibility of the 
+User to book an appointment with a qualified healthcare provider, whether that is the 
+Practitioner listed on our Platform or another provider. STPL shall not be liable for 
+any adverse outcomes or deterioration of the User’s condition resulting from failure 
+to follow this advice. 
+9.2 Substitution Disclaimer:  Consult is provided merely to assist Users in 
+obtaining timely medical advice remotely and is not a substitute for a comprehensive, 
+face-to-face evaluation by a licensed medical professional. 
+10. Termination 
+10.1 STPL reserves the right to suspend, restrict, or terminate the Services provided 
+through the Platform and under this Agreement at any time and for any reason, with 
+or without prior notice. 
+10.2 In addition, STPL may exercise any other available legal remedies. 
+
+11. Limitation of Liability 
+11.1 In no event, including in cases of negligence, shall STPL or any of its directors, 
+officers, employees, agents, service providers, affiliates, or group companies 
+(collectively, the “Protected Entities”) be liable for any direct, indirect, incidental, 
+consequential, special, exemplary, or punitive damages arising from, or in any way 
+related to, your use of or inability to use the Platform—including any content, 
+materials, or functions provided therein—even if advised of the possibility of such 
+damages. 
+11.2 Without limiting the foregoing, the Protected Entities shall not be liable for:   - 
+Any content posted, transmitted, or exchanged by or on behalf of any User or other 
+party via the Platform.   - Any unauthorized access to or alteration of your 
+transmissions or data. 
+12. Severability 
+12.1 If any provision of this Agreement is held to be invalid, unenforceable, or 
+otherwise contrary to applicable law by a court of competent jurisdiction or arbitral 
+tribunal, that provision shall be adjusted or removed to the minimum extent 
+necessary so as not to affect the enforceability of the remainder of this Agreement. 
+12.2 The remaining provisions will continue in full force and effect, and the 
+Agreement will be interpreted as if the invalid or unenforceable provision were 
+excluded. 
+13. Waiver 
+13.1 No waiver of any term, condition, or breach of this Agreement by STPL shall be 
+deemed to be a waiver of any subsequent breach or any other term, condition, or 
+breach. 
+13.2 Any waiver or consent by STPL must be in writing and signed by an authorized 
+representative. Failure by STPL to enforce any provision of these Terms shall not be 
+construed as a waiver of its right to enforce that or any other provision in the future. 
+14. Applicable Law and Dispute Settlement 
+14.1 Governing Law:  This Agreement, including all contractual obligations 
+between STPL and the User, shall be governed by and construed in accordance with 
+the laws of India. 
+14.2 Jurisdiction:  Any disputes arising out of or in relation to this Agreement, the 
+User’s use of the Platform, or any related information shall be exclusively subject to 
+the jurisdiction of the courts located in Bengaluru, India. 
+ 
+ 

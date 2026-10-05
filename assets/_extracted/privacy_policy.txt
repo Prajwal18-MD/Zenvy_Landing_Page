@@ -1,0 +1,352 @@
+STRATOSYS TECH PRIVATE LIMITED, (“we,” “us,” or “Stratasys Tech”), along with its 
+affiliates, is the developer and operator of the internet platform www.zenvy.co.in  (“Website”) 
+and associated services, including the mobile application ‘Zenvy’ and other software 
+(collectively referred to as the “Services”). This Privacy Policy outlines the methods through 
+which Zenvy collects, uses, shares, and protects personal information related to users, 
+including practitioners, end-users, and visitors accessing the Website or Services. By 
+utilizing the Services, you signify your agreement with this Privacy Policy as well as the 
+Terms of Use accessible via [insert link(Terms and Condition)]. If you do not accept these 
+terms, please discontinue the use of the Services immediately. 
+By providing your information or using the Services, you agree to the data practices 
+described in this Privacy Policy. If you are using the Services on behalf of another individual 
+(e.g., a minor) or an organization (e.g., an employer), you acknowledge your authorization to 
+accept this Privacy Policy and consent to data collection, use, and disclosure on their behalf. 
+This Privacy Policy is applicable exclusively to Zenvy’s operations within India, and users in 
+other regions are not covered. Zenvy reserves the right to modify or update this Privacy 
+Policy as necessary, and continued use of the Services confirms your acceptance of any 
+revised terms. We remain steadfast in our commitment to privacy by implementing robust 
+measures to safeguard your personal information and ensure responsible data handling. 
+1. WHY IS THIS PRIVACY POLICY? 
+This Privacy Policy is published in compliance with: 
+Section 43A of the Information Technology Act, 2000: Requires entities to 
+implement reasonable security measures for the protection and management of 
+sensitive personal data. 
+Regulation 4 of the SPI Rules, 2011: Defines sensitive personal data and specifies 
+the procedures and practices required for its secure handling. 
+Regulation 3(1) of the Intermediary Guidelines, 2021 (amended in 2023): 
+Imposes obligations on intermediaries to comply with privacy policies, terms of 
+service, and other requirements to safeguard user data. 
+Digital Personal Data Protection Act, 2023 (DPDPA): Establishes a 
+comprehensive framework for digital data processing, highlighting individual rights 
+and the responsibilities of entities handling such data. 
+2. COLLECTION OF PERSONAL INFORMATION 
+To deliver Services effectively, Zenvy may request specific information that identifies you or 
+could identify you. This information is voluntarily provided when accessing the Services or 
+communicating with Zenvy through emails, calls, or other correspondence. By using the 
+Services, you consent to this collection of data. The types of information collected include: 
+ Contact Information: Email, address and phone number. 
+ Demographic Details: Gender, date of birth, age, weight, height and postal code. 
+ Service Usage Data: Details about how you interact with the Services and 
+appointment history. 
+ Voluntary Submissions: Information shared through emails, letters, or other 
+correspondence, including images or documents. 
+
+ Practitioner-Shared Data: Information provided by Practitioners regarding services 
+or treatments received. 
+This data may be classified as Personal Information or Sensitive Personal Data or 
+Information under the SPI Rules: 
+1. Personal Information: Refers to data that identifies or can identify a natural person, 
+either alone or in combination with other available information. 
+2. Sensitive Personal Data or Information: Includes passwords, financial details, 
+health records, biometric data, sexual orientation, visitor registration details, call data 
+records, or any other data protected under applicable laws. 
+Zenvy may collect and use publicly available information without seeking further consent. 
+This includes any data already in the public domain. 
+3. PRIVACY STATEMENTS 
+3.1 ALL USERS NOTE: This section applies to all users of the Services. 
+Acceptance of Terms: Using Zenvy's Services indicates acceptance of the Privacy Policy 
+and Terms of Use. Users who disagree must stop using the Services immediately. 
+Data Collection Scope: Zenvy may collect personal details (such as name, contact info, 
+and demographic data) and sensitive data (e.g., health records) as outlined in the Privacy 
+Policy for purposes like service delivery, analytics, and communication. 
+Usage of Data: 
+ To provide Services like appointment booking and communication with Practitioners. 
+ For research, analytics, and aggregated data sharing (non-personally identifiable). 
+ Enhancing user experience through improved communication and feedback 
+mechanisms. 
+ Debugging issues and supporting pending transactions. 
+Additional Uses: User data may also be utilized for: 
+ Identification and publishing on the website. 
+ Offering new products or services. 
+ Payment processing with secure third-party platforms. 
+Consent to Communication: By accessing the Services or verifying contact details, Users 
+consent to communications (via call, SMS, email) from Zenvy and its representatives, even if 
+their number is registered with DND/NCPR. 
+Third-Party Sharing: Necessary data may be shared with third-party providers, affiliates, or 
+agents to facilitate Services. 
+Explicit Consent for Sensitive Data: Users affirm acceptance of the Privacy Policy and 
+consent to the collection, use, and disclosure of sensitive data per applicable laws (SPI 
+Rules and DPDPA, 2023). 
+Content Liability Disclaimer: Zenvy does not endorse or guarantee the accuracy of content 
+shared through its Services and disclaims liability for any related damages or reliance. 
+Account Management: 
+
+ Users can request account cancellation via support@zenvy.co.in. Zenvy retains data 
+only as required by law or for anonymized analytics. 
+ Opt-out options for non-essential communications are available via email. 
+Financial Transactions: Payment details (e.g., credit card or bank info) are encrypted and 
+securely processed through authorized third parties. Users can choose not to save payment 
+details. 
+Automatic Data Collection: Standard data (e.g., IP address, browser type, cookies) is 
+collected for trend analysis and service improvements. Anonymized data may be shared for 
+business purposes. 
+Third-Party Websites: Zenvy disclaims responsibility for third-party websites or links 
+accessed via its platform and encourages Users to review external privacy policies. 
+Cookies: Temporary cookies are used for technical purposes. Users can disable cookies via 
+browser settings, but certain features may be affected. 
+No-Spam Policy: User email addresses will not be shared, rented, or sold without explicit 
+consent. 
+Privacy and Security: Zenvy enforces strong security measures to safeguard personal data 
+but is not liable for breaches caused by third parties, government actions, or unauthorized 
+access to user devices. 
+Telemedicine Compliance: Zenvy’s telemedicine services adhere to relevant legal and 
+medical guidelines. Non-compliance can be reported to governing bodies for further action. 
+ 
+3.2 PRACTITIONERS NOTE: This section applies to all Practitioners. 
+Data Collection for Registration: Practitioners provide certain personal and sensitive 
+information during registration to use Zenvy’s Services effectively. 
+Agreement to Privacy Policy: Practitioners must read and accept the Privacy Policy before 
+submitting any information. Those who disagree are advised to stop using Zenvy and its 
+Website immediately. 
+Use of Practitioner Data: Practitioner data is utilized for: 
+ Publishing profiles on the Website. 
+ Communicating about new products or services (in compliance with the DNC 
+Registry). 
+ Collecting product feedback. 
+ Analysing usage patterns to improve product design. 
+ Aggregating anonymized practice data for research, statistics, and business 
+intelligence. 
+Automatic Practitioner Listings: Zenvy lists Practitioners’ profiles automatically for doctors 
+or clinics added to its platform. Information comes either from Practitioners directly or public 
+domain sources. Practitioners are encouraged to verify and update details regularly to 
+maintain accuracy. 
+
+Onboarding with Clinics: Practitioners can request to join clinics through Zenvy or be 
+invited by clinics. While Zenvy facilitates these actions, it doesn’t hold responsibility for 
+agreements or relationships formed between clinics and Practitioners. 
+Unregistered Practitioners: Information of unregistered Practitioners may also be listed, 
+provided consent for collection and processing is obtained. Zenvy strives for accuracy but 
+doesn’t guarantee completeness of details displayed for unregistered Practitioners. 
+QR Codes for Practitioners: Registered Practitioners receive unique QR codes, allowing 
+patients to access their profile and book appointments seamlessly. Practitioners must ensure 
+their information is accurate and can request changes or disable the QR code through 
+Zenvy’s support. 
+3.3 CLINIC MANAGEMENT 
+Note: This section applies to all Clinics and Healthcare Institutions using Zenvy. 
+ Registration and Data Collection: Clinics must provide certain personal and 
+sensitive information during the registration and account creation process to 
+effectively use Zenvy’s services. Additionally, Clinics registering walk-in 
+patients may collect data such as names, contact details, appointment details, 
+and health-related information for managing records and providing better 
+services. 
+ Agreement to Privacy Policy: Clinics are required to read and accept the 
+Privacy Policy before submitting any information. Those who disagree must 
+discontinue use of the platform immediately. By submitting data related to 
+walk-in patients, Clinics ensure that the patients have been informed of and 
+have agreed to the data collection, as required by applicable law. 
+ Use of Clinic Data: Data provided by Clinics is collected and used for 
+purposes such as: 
+o Displaying clinic details on the platform for appointment booking. 
+o Communicating updates, new features, or enhancements. 
+o Managing walk-in patient data to facilitate service delivery and maintain 
+accurate health records. 
+o Gathering feedback to improve Zenvy’s offerings. 
+o Analysing appointment patterns and operational data for improved 
+recommendations. 
+o Using anonymized clinic data (e.g., patient footfall, revenue analytics) 
+for research, business intelligence, and statistical purposes. 
+ Walk-In Patients: 
+o Data Collected: Information such as name, contact details, and health 
+records is collected during registration. 
+o Purpose: This data is used for appointment scheduling, record-
+keeping, and clinical services. 
+o Consent: Clinics are responsible for informing walk-in patients about 
+data collection practices and ensuring their consent. 
+o Retention: Data collected for walk-in patients is retained per the terms 
+outlined in this Privacy Policy. 
+ Automatic Listings: Clinic details are automatically listed on the platform 
+upon registration. Information may come from clinics themselves or public 
+domain records. Clinics are encouraged to routinely verify and update their 
+
+details to ensure accuracy. Zenvy takes reasonable steps to verify listed data 
+but is not liable for any inaccuracies. 
+ Unregistered Clinics: Zenvy may display information for clinics that have not 
+actively registered, provided consent has been obtained. However, Zenvy 
+does not take responsibility for errors or incomplete details associated with 
+such listings. 
+3.3 END-USERS NOTE: This section applies to all End-Users. 
+ Information Collection: End-Users provide personal and sensitive data during 
+registration, application creation, or service use, which is required for effective 
+delivery of services. 
+ Privacy Policy Agreement: End-Users must read and accept the Privacy Policy 
+before submitting any data. Those who disagree are advised to stop using Zenvy and 
+its services. 
+ Data Modification and Deletion: If information is inadvertently submitted without 
+agreement to the Privacy Policy, End-Users can delete or modify it via the Website or 
+request assistance at privacypolicy@zenvy.co.in. 
+ Use of End-User Data: 
+o Data helps identify and describe End-Users. 
+o Non-personally identifiable data is used for research, product improvement, 
+analytics, and business intelligence. 
+o Anonymized demographic and health information may be shared with third 
+parties for commercial purposes. 
+ Communication Preferences: Zenvy contacts End-Users via email, phone, or text 
+messages. Preferences can be adjusted by logging into their accounts. 
+ Surveys and Contests: Optional surveys and contests may collect demographic and 
+contact details to improve services. Responses are anonymized. 
+ “Verified by Zenvy” Badge Services: Data related to treatment, including medical 
+records, is shared with Zenvy to ensure effective service delivery. 
+ Data Retention: Zenvy retains communication records and call logs for service 
+administration, customer support, and research purposes. 
+ Data Confidentiality: Zenvy enforces strict confidentiality measures for sensitive data. 
+Employees and third-party processors comply with industry standards and legal 
+requirements. 
+ Corporate Restructuring: End-User data may be transferred during mergers, 
+acquisitions, or asset sales, and will remain subject to this Privacy Policy. 
+ Third-Party Data Sharing: Contractors and service providers assisting Zenvy may 
+receive data strictly for service purposes, such as payment processing. 
+ Doctor QR Codes: End-Users can scan QR codes to access a doctor's profile and 
+book appointments. Data from QR code scans is only stored if an appointment is 
+booked or services are engaged. 
+3.4 CASUAL VISITORS NOTE: This section applies to all casual visitors of the Website. 
+Data Handling: No sensitive data is automatically collected from casual visitors browsing 
+the Website. 
+Agreement to Privacy Policy: Casual visitors must read and accept the Privacy Policy. If 
+they disagree, they are advised to leave the Website. 
+Cookie Management: Closing the browser typically removes temporary cookies, but visitors 
+are encouraged to use the “clear cookies” option for complete removal. 
+
+Upgrade to User Status: Casual visitors who submit personal data via email, post, or 
+registration are treated as Users, and all Privacy Policy provisions apply. 
+4. CONFIDENTIALITY AND SECURITY 
+Data Storage: Zenvy stores user information electronically on its systems and those of its 
+employees, with occasional conversion to physical form. Comprehensive security 
+measures—managerial, technical, operational, and physical—are implemented to protect 
+data both online and offline, tailored to the nature of the data and business operations. 
+Password Protection: Administrators at Zenvy cannot access user passwords. Users must 
+safeguard their passwords, devices, and accounts, and log off the Website after use. Zenvy 
+is not responsible for unauthorized access or account misuse. Users should report 
+unauthorized access immediately via support@zenvy.co.in and will be held accountable for 
+any losses resulting from such misuse. 
+Restricted Access: User information is accessible only to Zenvy's employees, agents, 
+partners, and authorized third parties on a need-to-know basis, all of whom are bound by 
+strict confidentiality obligations. 
+Practitioner Support: Zenvy assists Practitioners in managing user information by retaining 
+and providing access to records when requested or required by appropriate authorities. 
+End-User Support: Zenvy helps End-Users access their own information and may share 
+relevant data with their respective Practitioners. 
+Liability Limitations: Although Zenvy makes efforts to secure personal data, it is not 
+responsible for breaches or loss caused by factors beyond its control, such as hacking, 
+unauthorized access, government actions, data storage failures, encryption problems, or 
+poor-quality internet services. 
+Public Information: Zenvy may collect, use, and disclose publicly available data without 
+needing user consent. This includes information already accessible in the public domain. 
+5. App Permissions 
+ Location: Enables access to location-specific product availability and services. 
+ Camera & Media: Allows uploading of prescriptions and relevant documents. 
+ SMS & Bluetooth: Supports OTP verification and facilitates video consultations. 
+ Wi-Fi & Audio: Enhances functionality and optimizes the overall user experience. 
+6. CHANGE TO PRIVACY POLICY 
+Zenvy reserves the right to modify or update this Privacy Policy at any time, with or without 
+prior notice. In case of significant changes to how Zenvy manages Users’ personal 
+information or updates to the Privacy Policy, a notice will be displayed on the Website or 
+sent to Users via email. This will allow Users to review the changes before continuing to use 
+the Services. If you disagree with the changes and wish to stop using the Services, you can 
+contact support@zenvy.co.in to deactivate your account. Unless explicitly stated otherwise, 
+the latest version of the Privacy Policy applies to all information Zenvy holds about you and 
+your account. By accessing the Website or using the Services after changes are notified, 
+you indicate your acceptance of the revised terms. 
+7. CHILDREN'S AND MINOR'S PRIVACY 
+
+Zenvy advises parents and guardians to actively monitor and supervise minors' online 
+activities when accessing the Website or Services. To create a safe online environment, the 
+use of parental control tools provided by software or online services is recommended, 
+ensuring that minors do not share personally identifiable information such as their name or 
+address without parental consent. Although Zenvy’s Website and Services are not designed 
+for minors, the platform respects their privacy if they inadvertently access it. For telemedicine 
+consultations, minors are permitted to consult Practitioners, but such interactions must be 
+overseen by a verified adult. 
+8. CONSENT TO THIS POLICY 
+By using Zenvy’s Website or Services, you acknowledge that this Privacy Policy is an 
+integral part of the Terms of Use. As a User, you: 
+1. Agree to the terms outlined in this Privacy Policy. 
+2. Consent to Zenvy’s collection, use, processing, and disclosure of your Personal 
+Information as described. 
+Your access to the Website and use of the Services is governed by this Privacy Policy and 
+the Terms of Use. 
+9. ADDRESS FOR PRIVACY QUESTIONS 
+If you have questions about this Privacy Policy or Zenvy’s information 
+collection, use, and disclosure practices, you can contact the Data Protection 
+Officer appointed by Zenvy under applicable regulations. Zenvy will use 
+reasonable efforts to promptly address your requests, questions, or concerns. 
+For grievances regarding data usage, you can contact at Email: 
+privacypolicy@zenvy.co.in, Phone Number: 6361218556. 
+Data Collection Based on Service Type 
+1. End-Users Registering for an Account: 
+o Information Required: Name, mobile number, email address, and other 
+details provided during registration. 
+o Purpose: Enables services like appointment booking and storing health-
+related information. 
+o Additional Data: Call records for telephony services are stored with consent, 
+as per the Privacy Policy. 
+2. Guest Users: 
+o Information Required: Minimal data, such as a mobile number, to book 
+appointments. 
+o Additional Data: Call records for telephony services are stored with consent, 
+as per the Privacy Policy. 
+3. Practitioners Registering for an Account: 
+o Information Required: Name, mobile number, email address, and other 
+registration details. 
+o Approval Process: Practitioner accounts require admin approval before 
+listing on the platform to ensure compliance and accuracy. 
+o Notifications: Service-related communications (e.g., appointment 
+confirmations) are facilitated post-approval. 
+4. Practitioners Using Specific Products: 
+
+o Information Required: Name, mobile number, email address, and digital 
+signature for prescriptions or clinical notes. 
+o Purpose: Supports seamless functionality for Zenvy products and services. 
+5. Users of Consult Services: 
+o Information Required: Name, mobile number, email address, and any 
+additional information during registration. 
+o Purpose: Enables smooth interaction between Practitioners and End-Users 
+on the Consult platform. 
+6. End-Users Accessing "Verified by Zenvy" Services: 
+o Data Shared: Treatment-related information, including medical records, is 
+securely shared with Zenvy to ensure efficient service delivery under the 
+"Verified by Zenvy" framework. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
