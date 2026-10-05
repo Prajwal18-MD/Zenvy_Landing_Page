@@ -2135,3 +2135,6 @@ button {
   }
   .reveal { opacity: 1; transform: none; }
 }
+
+/* Hide support forms - redirect users to WhatsApp for support */
+.support-form-grid { display: none !important; }

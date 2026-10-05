@@ -360,34 +360,27 @@ function initTopicSelector() {
 }
 
 function initSupportButtons() {
+  // Direct support actions to WhatsApp with a prefilled message.
+  // Uses the clinic WhatsApp number: +91 6361218556
+  const WHATSAPP_NUMBER = '916361218556'; // country code +91 + number
   const buttons = document.querySelectorAll('.support-action');
-  buttons.forEach((button) => {
-    button.addEventListener('click', () => {
-      const message = button.dataset.message || 'Support contact coming soon';
-      const supportCard = button.closest('.support-card');
-      if (supportCard) {
-        const existing = supportCard.querySelector('.support-status');
-        if (existing) {
-          existing.textContent = message;
-        } else {
-          const status = document.createElement('p');
-          status.className = 'support-status';
-          status.textContent = message;
-          supportCard.appendChild(status);
-        }
-      }
 
-      const targetId = button.dataset.formTarget;
-      if (targetId) {
-        const target = document.getElementById(targetId);
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          const firstInput = target.querySelector('input, textarea');
-          if (firstInput) {
-            firstInput.focus({ preventScroll: true });
-          }
-        }
-      }
+  buttons.forEach((button) => {
+    button.addEventListener('click', (e) => {
+      e.preventDefault();
+      const preset = button.dataset.message || '';
+      const targetId = button.dataset.formTarget || '';
+
+      let prefix = 'Hello Zenvy,';
+      if (targetId === 'onboardingForm') prefix = 'Hello Zenvy, I would like onboarding for my clinic.';
+      if (targetId === 'patientSupportForm') prefix = 'Hello Zenvy, I need patient support.';
+      if (targetId === 'supportForm') prefix = 'Hello Zenvy, I need support.';
+
+      const text = `${prefix} ${preset}`.trim();
+      const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
+
+      // Open WhatsApp in a new tab/window — mobile will open WhatsApp app if available.
+      window.open(waUrl, '_blank');
     });
   });
 }
