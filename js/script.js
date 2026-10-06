@@ -360,94 +360,16 @@ function initTopicSelector() {
 }
 
 function initSupportButtons() {
-  // Direct support actions to WhatsApp with a prefilled message.
-  // Uses the clinic WhatsApp number: +91 6361218556
-  const WHATSAPP_NUMBER = '916361218556'; // country code +91 + number
+  const WHATSAPP_NUMBER = '916361218556';
   const buttons = document.querySelectorAll('.support-action');
 
   buttons.forEach((button) => {
     button.addEventListener('click', (e) => {
       e.preventDefault();
-      const preset = button.dataset.message || '';
-      const targetId = button.dataset.formTarget || '';
-
-      let prefix = 'Hello Zenvy,';
-      if (targetId === 'onboardingForm') prefix = 'Hello Zenvy, I would like onboarding for my clinic.';
-      if (targetId === 'patientSupportForm') prefix = 'Hello Zenvy, I need patient support.';
-      if (targetId === 'supportForm') prefix = 'Hello Zenvy, I need support.';
-
-      const text = `${prefix} ${preset}`.trim();
+      const preset = button.dataset.message || 'Hello Zenvy, I need help.';
+      const text = `${preset}`.trim();
       const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
-
-      // Open WhatsApp in a new tab/window — mobile will open WhatsApp app if available.
-      window.open(waUrl, '_blank');
-    });
-  });
-}
-
-function initSupportForms() {
-  const forms = document.querySelectorAll('.request-form');
-
-  forms.forEach((form) => {
-    form.addEventListener('submit', async (event) => {
-      event.preventDefault();
-
-      const status = form.querySelector('.form-status');
-      const formKind = form.dataset.formKind || 'support';
-      const rawEndpoint = form.dataset.googleSheetUrl || window.ZENVY_GOOGLE_SHEETS?.[formKind] || '';
-      const configuredEndpoint = typeof rawEndpoint === 'string' && rawEndpoint.trim() && !rawEndpoint.toUpperCase().includes('PASTE_') ? rawEndpoint.trim() : '';
-      const formPayload = Object.fromEntries(new FormData(form).entries());
-      formPayload.formType = formKind;
-      formPayload.submittedAt = new Date().toISOString();
-
-      // Primary attempt: serverless endpoint on the same site (recommended for Vercel)
-      try {
-        const r = await fetch('/api/submit', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(formPayload)
-        });
-
-        if (r.ok) {
-          const json = await r.json().catch(() => ({}));
-          if (status) status.textContent = json && json.success ? 'Request submitted successfully.' : 'Request submitted (no confirmation).';
-          form.reset();
-          return;
-        }
-      } catch (err) {
-        // continue to fallback options
-        console.warn('Primary submit failed:', err);
-      }
-
-      // Fallback 1: direct Apps Script / third-party endpoint if configured
-      if (configuredEndpoint) {
-        try {
-          await fetch(configuredEndpoint, {
-            method: 'POST',
-            mode: 'no-cors',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(formPayload)
-          });
-          if (status) status.textContent = 'Request sent successfully to configured endpoint.';
-          form.reset();
-          return;
-        } catch (error) {
-          console.warn('Configured endpoint failed', error);
-        }
-      }
-
-      // Fallback 2: localStorage (safe fallback when no backend available)
-      try {
-        const savedEntries = JSON.parse(localStorage.getItem('zenvySupportForms') || '[]');
-        savedEntries.push(formPayload);
-        localStorage.setItem('zenvySupportForms', JSON.stringify(savedEntries));
-        if (status) status.textContent = 'Request saved locally. Configure an endpoint to forward these later.';
-        form.reset();
-        return;
-      } catch (error) {
-        console.warn('Could not save form data locally.', error);
-        if (status) status.textContent = 'Submission failed. Please try again later.';
-      }
+      window.open(waUrl, '_blank', 'noopener,noreferrer');
     });
   });
 }
@@ -502,6 +424,5 @@ document.addEventListener('DOMContentLoaded', () => {
   initFaq();
   initTopicSelector();
   initSupportButtons();
-  initSupportForms();
   initLegalModals();
 });
