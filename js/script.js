@@ -136,12 +136,6 @@ const legalContent = {
 
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-window.ZENVY_GOOGLE_SHEETS = window.ZENVY_GOOGLE_SHEETS || {
-  support: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec',
-  onboarding: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec',
-  patient: 'https://script.google.com/macros/s/AKfycbyC1YXmwDvZDQeqgyzqsKErxADs42bHCJ023B5uMeo/exec'
-};
-
 function initLoginCardTargets() {
   const patientCard = document.querySelector('.login-card[data-login-target="patient"]');
   const doctorCard = document.querySelector('.login-card[data-login-target="doctorAdmin"]');

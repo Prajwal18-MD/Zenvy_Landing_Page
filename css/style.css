@@ -447,6 +447,12 @@ button {
   margin-bottom: 36px;
 }
 
+.hero-cta-row .btn {
+  min-height: 54px;
+  padding: 0 24px;
+  letter-spacing: -0.01em;
+}
+
 .hero-badges {
   display: flex;
   flex-wrap: wrap;
@@ -1488,6 +1494,12 @@ button {
   font-size: 0.94rem;
 }
 
+.support-card .btn {
+  min-height: 52px;
+  padding: 0 22px;
+  font-size: 0.92rem;
+}
+
 .support-card .btn::before {
   content: "💬";
   margin-right: 8px;
@@ -2065,7 +2077,6 @@ button {
   .feature-grid { grid-template-columns: repeat(2, 1fr); }
   .value-grid { grid-template-columns: repeat(2, 1fr); }
   .security-grid { grid-template-columns: repeat(3, 1fr); }
-  .support-form-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-grid { grid-template-columns: repeat(3, 1fr); }
 }
 
@@ -2078,13 +2089,12 @@ button {
   .timeline-items { grid-template-columns: repeat(3, 1fr); gap: 16px; }
   .cta-stage { flex-direction: column; text-align: center; align-items: center; }
   .cta-actions { align-items: center; flex-direction: row; }
-  .support-grid, .proof-grid, .feature-grid, .support-form-grid { grid-template-columns: 1fr; }
+  .support-grid, .proof-grid, .feature-grid { grid-template-columns: 1fr; }
   .workflow-compare { grid-template-columns: 1fr; }
   .security-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-grid { grid-template-columns: repeat(2, 1fr); }
   .nav-links, .nav-actions { display: none; }
   .mobile-menu-toggle { display: flex; }
-  .form-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 620px) {
@@ -2095,7 +2105,6 @@ button {
   .value-grid { grid-template-columns: 1fr; }
   .security-grid { grid-template-columns: 1fr; }
   .proof-grid { grid-template-columns: 1fr; }
-  .support-form-grid { grid-template-columns: 1fr; }
   .login-card { grid-template-columns: 1fr; text-align: center; }
   .login-icon { margin: 0 auto; }
   .sales-board, .cta-stage, .security-enclosure { padding: 32px 20px; }
@@ -2125,4 +2134,3 @@ button {
 }
 
 /* Hide support forms - redirect users to WhatsApp for support */
-.support-form-grid { display: none !important; }
