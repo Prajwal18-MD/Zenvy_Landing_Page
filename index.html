@@ -754,106 +754,6 @@
             </article>
           </div>
 
-          <div class="support-form-grid reveal">
-            <form class="request-form" data-form-kind="support" id="supportForm" data-google-sheet-url="">
-              <div class="form-header">
-                <span class="mini-label">Support request</span>
-                <h3>Contact the Zenvy support team</h3>
-              </div>
-              <div class="form-grid">
-                <label class="field">
-                  <span>Full name</span>
-                  <input type="text" name="fullName" placeholder="Your name" required />
-                </label>
-                <label class="field">
-                  <span>Clinic name</span>
-                  <input type="text" name="clinicName" placeholder="Clinic or practice name" />
-                </label>
-                <label class="field">
-                  <span>Phone number</span>
-                  <input type="tel" name="phone" placeholder="+91 98765 43210" required />
-                </label>
-                <label class="field">
-                  <span>Email</span>
-                  <input type="email" name="email" placeholder="you@clinic.com" required />
-                </label>
-                <label class="field field-wide">
-                  <span>What do you need help with?</span>
-                  <textarea name="message" rows="4" placeholder="Tell us about your support request, billing question, queue issue, WhatsApp automation, or integration need." required></textarea>
-                </label>
-              </div>
-              <div class="form-actions">
-                <button class="btn btn-primary" type="submit">Send support request</button>
-                <p class="form-status" aria-live="polite">Google Sheets URL can be plugged in from the script config when available.</p>
-              </div>
-            </form>
-
-            <form class="request-form" data-form-kind="onboarding" id="onboardingForm" data-google-sheet-url="">
-              <div class="form-header">
-                <span class="mini-label">Onboarding</span>
-                <h3>Start onboarding with Zenvy</h3>
-              </div>
-              <div class="form-grid">
-                <label class="field">
-                  <span>Doctor name</span>
-                  <input type="text" name="doctorName" placeholder="Doctor or clinic owner" required />
-                </label>
-                <label class="field">
-                  <span>Clinic website</span>
-                  <input type="url" name="clinicWebsite" placeholder="https://yourclinic.com" />
-                </label>
-                <label class="field">
-                  <span>Phone</span>
-                  <input type="tel" name="phone" placeholder="+91 98765 43210" required />
-                </label>
-                <label class="field">
-                  <span>Email</span>
-                  <input type="email" name="email" placeholder="doctor@clinic.com" required />
-                </label>
-                <label class="field field-wide">
-                  <span>Clinic setup needs</span>
-                  <textarea name="message" rows="4" placeholder="Tell us about your doctors, staff, reception workflow, WhatsApp updates, inventory setup, and desired launch timeline." required></textarea>
-                </label>
-              </div>
-              <div class="form-actions">
-                <button class="btn btn-primary" type="submit">Request onboarding</button>
-                <p class="form-status" aria-live="polite">Google Sheet URL for onboarding leads can be plugged in from the script config.</p>
-              </div>
-            </form>
-
-            <form class="request-form" data-form-kind="patient" id="patientSupportForm" data-google-sheet-url="">
-              <div class="form-header">
-                <span class="mini-label">Patient support</span>
-                <h3>Patient assistance request</h3>
-              </div>
-              <div class="form-grid">
-                <label class="field">
-                  <span>Patient name</span>
-                  <input type="text" name="patientName" placeholder="Patient full name" required />
-                </label>
-                <label class="field">
-                  <span>Appointment ID</span>
-                  <input type="text" name="appointmentId" placeholder="Optional appointment reference" />
-                </label>
-                <label class="field">
-                  <span>Phone number</span>
-                  <input type="tel" name="phone" placeholder="+91 98765 43210" required />
-                </label>
-                <label class="field">
-                  <span>Email</span>
-                  <input type="email" name="email" placeholder="you@example.com" />
-                </label>
-                <label class="field field-wide">
-                  <span>How can we help?</span>
-                  <textarea name="message" rows="4" placeholder="Describe your issue, prescription access, appointment question, billing concern, queue update, or patient account problem." required></textarea>
-                </label>
-              </div>
-              <div class="form-actions">
-                <button class="btn btn-primary" type="submit">Submit patient request</button>
-                <p class="form-status" aria-live="polite">Patient support entries can be sent to a second Google Sheet when the URL is connected.</p>
-              </div>
-            </form>
-          </div>
         </div>
       </section>
 
@@ -973,8 +873,8 @@
           <ul>
            <li><span class="footer-address">Address: 175/2 9th Cross, Kaveri Main Road, Raghavendra Nagar, Mysuru - 570019</span></li>
            <li><a href="tel:+916361218556">Phone: +91 63612 18556</a></li>
+           <li><a href="https://wa.me/916361218556?text=Hello%20Zenvy%2C%20I%20need%20help%20with%20my%20clinic%20setup." target="_blank" rel="noreferrer">WhatsApp: +91 63612 18556</a></li>
            <li><a href="mailto:hello@zenvy.co.in">Email: hello@zenvy.co.in</a></li>
-           <li><a href="https://wa.me/916361218556">WhatsApp: +91 63612 18556</a></li>
          </ul>
        </div>
 
@@ -996,6 +896,11 @@
        </div>
      </div>
     </footer>
+
+    <a class="floating-whatsapp" href="https://wa.me/916361218556?text=Hello%20Zenvy%2C%20I%20would%20like%20to%20learn%20more%20about%20your%20platform." target="_blank" rel="noreferrer" aria-label="Chat with Zenvy on WhatsApp">
+      <span class="floating-whatsapp__icon">💬</span>
+      <span class="floating-whatsapp__text">Talk to us on WhatsApp</span>
+    </a>
 
     <div class="modal legal-modal" id="legalModal" aria-hidden="true">
      <div class="modal-backdrop" data-close-modal="true"></div>
